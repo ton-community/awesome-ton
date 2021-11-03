@@ -12,6 +12,10 @@
 * [explorer.toncoin.org](https://explorer.toncoin.org) - Advanced explorer for developers
 * [ton.cx](https://ton.cx) - Another advanced explorer for devlopers
 
+# Contracts
+* [Nominator Pool](https://github.com/EmelyanenkoK/nominator_pool) - WIP nominator pool
+* [Multisig](https://github.com/akifoq/multisig) - original multisig implementation
+
 # Libraries
 * [TonWeb](https://github.com/toncenter/tonweb) - Browser and NodeJS js library
 * [ton](https://github.com/ex3ndr/ton) - Typescript-based rewrite of TonWeb
