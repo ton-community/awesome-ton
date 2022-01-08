@@ -8,6 +8,7 @@
 * [ton-cli](https://github.com/ex3ndr/ton-cli) - TON CLI client
 
 # Explorers
+* [tonwhales.com/explorer](https://tonwhales.com/explorer) - User friendly explorer and with detailed technical info
 * [ton.sh](https://ton.sh) - official blockchain explorer, supports only recent transactions
 * [explorer.toncoin.org](https://explorer.toncoin.org) - Advanced explorer for developers
 * [ton.cx](https://ton.cx) - Another advanced explorer for devlopers
