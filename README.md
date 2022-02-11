@@ -22,5 +22,8 @@
 * [ton](https://github.com/ex3ndr/ton) - Typescript-based rewrite of TonWeb
 * [pyTONv3](https://github.com/EmelyanenkoK/pytonv3) - Python-based HTTP API proxy
 
+# Utilities
+* [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator for The Open Network's standard wallets
+
 # License
 MIT
