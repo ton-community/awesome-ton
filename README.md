@@ -22,5 +22,8 @@
 * [ton](https://github.com/ex3ndr/ton) - Typescript-based rewrite of TonWeb
 * [pyTONv3](https://github.com/EmelyanenkoK/pytonv3) - Python-based HTTP API proxy
 
+# UX/UI
+* [TON Design System](https://github.com/designervoid/ton-design-system) - Design system which provides [web-wallet](https://github.com/toncenter/ton-wallet) as web-component (not as chrome plugin)
+
 # License
 MIT
