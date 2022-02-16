@@ -27,7 +27,7 @@
 * [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator for The Open Network's standard wallets
 
 # UX/UI
-* [TON Design System](https://github.com/designervoid/ton-design-system) - Design system which provides [web-wallet](https://github.com/toncenter/ton-wallet) as web-component (not as chrome plugin)
+* [TON Design System](https://github.com/designervoid/ton-design-system) - Design system which provides [TON Brand Assets](https://ton.org/brand-assets) as Atom CSS
 
 # License
 MIT
