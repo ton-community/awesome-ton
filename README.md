@@ -30,6 +30,7 @@
 
 # Utilities
 * [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator for The Open Network's standard wallets
+* [custon](https://github.com/TON-NFT/custon) - User-friendly generator of custom TON wallet addresses written in JS
 
 # Jettons (Fungible Tokens)
 * [Jetton Live](https://jetton.live/) - service for minting arbitrary jettons
