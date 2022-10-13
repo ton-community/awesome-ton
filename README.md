@@ -12,7 +12,7 @@
 * [ton.sh](https://ton.sh) - official blockchain explorer, supports only recent transactions
 * [explorer.toncoin.org](https://explorer.toncoin.org) - Advanced explorer for developers
 * [ton.cx](https://ton.cx) - Another advanced explorer for devlopers
-* [tonscan](https://tonscan.org/) - Yet another explorer
+* [tonscan](https://tonscan.org/) - another official blockchain
 
 # Staking
 * [Ton Whales Staking](https://tonwhales.com/staking) - staking service with the 50 TON minimal deposit
