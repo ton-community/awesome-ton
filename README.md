@@ -6,6 +6,11 @@
 * [Ton Android](https://play.google.com/store/apps/details?id=ton.coin.wallet) - Official Android wallet
 * [TonWeb](http://tonwallet.me) - Official Web Wallet
 * [ton-cli](https://github.com/ex3ndr/ton-cli) - TON CLI client
+* [Tonkeeper](https://tonkeeper.com) - Wallet for store, send, and receive Toncoin on The Open Network
+* [TonHub](https://tonhub.com) - Also good mobile wallet that allows you send, receive and stake Toncoin with Tonwhales staking pool
+* [MyTonWallet](https://mytonwallet.io) - Web wallet and browser extension for TON – with support of tokens, NFT, TON DNS, TON Sites, TON Proxy, and TON Magic
+* [Juston](https://juston.io) - Wallet has a built-in browser that can open sites in the .ton domain zone without the need for settings. Available on iOS.
+
 
 # Explorers
 * [tonwhales.com/explorer](https://tonwhales.com/explorer) - User friendly explorer and with detailed technical info
@@ -16,6 +21,7 @@
 
 # Staking
 * [Ton Whales Staking](https://tonwhales.com/staking) - staking service with the 50 TON minimal deposit
+* [Red Ziccurat bot](https://t.me/red_ziccurat_staking_bot) - official staking from redcompany.team
 
 # Contracts
 * [Nominator Pool](https://github.com/EmelyanenkoK/nominator_pool) - WIP nominator pool
