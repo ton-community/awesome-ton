@@ -18,6 +18,8 @@
 * [explorer.toncoin.org](https://explorer.toncoin.org) - Advanced explorer for developers
 * [ton.cx](https://ton.cx) - Another advanced explorer for devlopers
 * [tonscan](https://tonscan.org/) - another official blockchain
+* [tonapi](https://tonapi.io/) - Convenient explorer
+* [dton](https://dton.io) - Good explorer for developers
 
 # Staking
 * [Ton Whales Staking](https://tonwhales.com/staking) - staking service with the 50 TON minimal deposit
@@ -56,7 +58,7 @@
 * [TAV Fund](https://tav-incubation.com/)
 
 # Frameworks
-* [dBuilder.py](https://github.com/decentralized-builder/dBuilder.py) - python framework for building smart contracts
+* [Rift](https://github.com/sky-ring/rift) - python framework for building smart contracts
 
 # UX/UI
 * [TON Design System](https://github.com/designervoid/ton-design-system) - Design system which provides [TON Brand Assets](https://ton.org/brand-assets) as Atom CSS
