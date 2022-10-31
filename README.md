@@ -164,7 +164,7 @@ TonLib was a one of the first libraries for working with TON blockchain
 # Wallets
 * [Ton iOS](https://apps.apple.com/by/app/toncoin-wallet/id1560210939) - Official iOS wallet
 * [Ton Android](https://play.google.com/store/apps/details?id=ton.coin.wallet) - Official Android wallet
-* [TonWeb](http://tonwallet.me) - Official Web Wallet
+* [TON Wallet](https://wallet.ton.org/) - Official Web Wallet
 * [ton-cli](https://github.com/ex3ndr/ton-cli) - TON CLI client
 * [Tonkeeper](https://tonkeeper.com) - Wallet for store, send, and receive Toncoin on The Open Network
 * [TonHub](https://tonhub.com) - Also good mobile wallet that allows you send, receive and stake Toncoin with Tonwhales staking pool
