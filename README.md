@@ -73,6 +73,9 @@ To add login button to your website or WebApp use these approaches:
 * [toncenter/tonweb](https://github.com/toncenter/tonweb) — Cross-platform client for TON blockchain, by TonCenter
 * [@tegro/ton3-client](https://github.com/TegroTON/ton3-client) — JS ton3-client for tonhold API, by TonHold
 * [nns2009/ton-payment-tracker](https://github.com/nns2009/ton-payment-tracker) — Ton Payment Tracker
+* [ton-x](https://npm.im/ton-x) — a library that allows you to add Tonhub authorization to your project
+* [@tonapps/tonconnect-server](https://npm.im/@tonapps/tonconnect-server) — a library that allows you to add Tonkeeper authorization to your project
+* [tonRocket-api-sdk](https://github.com/danya7423/tonRocket-api-sdk) — library for easy work with the TON Rocket API
 
 # Jettons (Fungible Tokens)
 * [Jetton Live](https://jetton.live/) - service for minting arbitrary jettons
@@ -122,6 +125,7 @@ To add login button to your website or WebApp use these approaches:
 * [psylopunk/pytonlib](https://github.com/psylopunk/pytonlib) — Python SDK
 * [toncenter/pytonlib](https://github.com/toncenter/pytonlib) — Python SDK
 * [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk) — Analogue of the tonweb js library
+* [tonrocketapisdk](https://github.com/danya7423/tonRocket-api-sdk-py) — library for easy work with the TON Rocket API
 
 # Staking
 * [Ton Whales Staking](https://tonwhales.com/staking) - staking service with the 50 TON minimal deposit
