@@ -98,6 +98,8 @@ To add login button to your website or WebApp use these approaches:
 # Libraries
 * [TonWeb](https://github.com/toncenter/tonweb) - Browser and NodeJS js library
 * [ton](https://github.com/ex3ndr/ton) - Typescript-based rewrite of TonWeb
+* [ton3](https://github.com/tonstack/ton3) - Pure TypeScript low-level TON Blockchain interaction library
+* [adnl-js](https://github.com/tonstack/adnl-js) - JavaScript ADNL protocol implementation
 * [pyTONv3](https://github.com/EmelyanenkoK/pytonv3) - Python-based HTTP API proxy
 * [TON Go](https://github.com/bored-ton/ton-go) - Golang client for toncenter HTTP API
 
