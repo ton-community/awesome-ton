@@ -10,6 +10,7 @@ To add login button to your website or WebApp use these approaches:
 * [ton-connect/sdk](https://github.com/ton-connect/sdk) — unified standard for TON Ecosystem
 * [tonkeeper/ton-connect](https://github.com/tonkeeper/ton-connect/blob/main/TonConnectSpecification.md) — SDK by Tonkeeper
 * [tonhub/tonhub-connect](https://developers.tonhub.com/docs/apps) — SDK by Tonhub
+* [delab-team/connect](https://github.com/delab-team/connect) - SDK, which combines multiple protocols in one modal
 
 # Contracts
 * [Nominator Pool](https://github.com/EmelyanenkoK/nominator_pool) - WIP nominator pool
