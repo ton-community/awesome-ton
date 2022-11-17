@@ -107,6 +107,7 @@ To add login button to your website or WebApp use these approaches:
 
 # Monitoring
 * [TON Grafana](https://tonmon.xyz/) - Blockchain metrics
+* [TON Notify Bot](https://t.me/TONNotifyBot) - Instant notifications about transfer coins of the TON address in Telegram. Link to [GitHub](https://github.com/tonbase/ton-notify-bot)
 
 # NFT
 * [NFT Standard](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md)
