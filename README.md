@@ -25,7 +25,8 @@ To add login button to your website or WebApp use these approaches:
 * [ton.sh](https://ton.sh) - official blockchain explorer, supports only recent transactions
 * [explorer.toncoin.org](https://explorer.toncoin.org) - Advanced explorer for developers
 * [ton.cx](https://ton.cx) - Another advanced explorer for devlopers
-* [tonscan](https://tonscan.org/) - another official blockchain
+* [tonscan](https://tonscan.org/) - another official blockchain explorer
+* [tonscanplus](https://chrome.google.com/webstore/detail/tonscan%2B/egonpnmjojlaogggbjklkbkflgipljpd/related) - Google Chrome extencion and [the community-driven address book](https://github.com/menschee/tonscanplus/blob/main/data.json). Apart from name tags, the extension enables one to choose a view mode as well as sort out transactions by the number of Toncoin. The extension is now [open source](https://github.com/menschee/tonscanplus) and ready for feedback. Feel free to report any bugs via [bot](https://t.me/thedailytonbot)
 * [tonapi](https://tonapi.io/) - Convenient explorer
 * [dton](https://dton.io) - Good explorer for developers
 * [Ton.page](https://ton.page) - Explorer with advanced tagging system
@@ -106,6 +107,7 @@ To add login button to your website or WebApp use these approaches:
 
 # Monitoring
 * [TON Grafana](https://tonmon.xyz/) - Blockchain metrics
+* [TON Notify Bot](https://t.me/TONNotifyBot) - Instant notifications about transfer coins of the TON address in Telegram. Link to [GitHub](https://github.com/tonbase/ton-notify-bot)
 
 # NFT
 * [NFT Standard](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md)
