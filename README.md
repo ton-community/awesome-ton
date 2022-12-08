@@ -29,7 +29,6 @@ To add login button to your website or WebApp use these approaches:
 * [tonscanplus](https://chrome.google.com/webstore/detail/tonscan%2B/egonpnmjojlaogggbjklkbkflgipljpd/related) - Google Chrome extencion and [the community-driven address book](https://github.com/menschee/tonscanplus/blob/main/data.json). Apart from name tags, the extension enables one to choose a view mode as well as sort out transactions by the number of Toncoin. The extension is now [open source](https://github.com/menschee/tonscanplus) and ready for feedback. Feel free to report any bugs via [bot](https://t.me/thedailytonbot)
 * [tonapi](https://tonapi.io/) - Convenient explorer
 * [dton](https://dton.io) - Good explorer for developers
-* [Ton.page](https://ton.page) - Explorer with advanced tagging system
 * [TON Searcher](https://ton.app/explorers/1644844142) - Simple open-source explorer
 * [TONCOIN Explorer](https://ton.app/explorers/toncoin.tonscan.io) - TONCOIN Explorer
 * [TonMoon Explorer](https://ton.app/explorers/tonmoon-explorer) - Search for addresses, shops and NFT
