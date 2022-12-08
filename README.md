@@ -40,8 +40,6 @@ To add login button to your website or WebApp use these approaches:
 * [Explorer Bot](https://ton.app/explorers/tonexpbot) - First Bot-explorer
 * [tonobserver](https://ton.app/explorers/tonobserver) - TON explorer using indexing
 * [TON Scan Mobile](https://ton.app/explorers/tonscanmobile) - First mobile explorer for TON
-* [TON SPY](https://ton.app/explorers/ton-spy) - Explore and save adresses to favorites
-* [TonScan in Telegram](https://ton.app/explorers/explorer) - TON Explorer without leaving Telegram
 * [TonDomenBot](https://ton.app/explorers/ton-domen-bot) - Бот для мониторинга доменов в TON
 
 # Faucets 
