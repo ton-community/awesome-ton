@@ -176,5 +176,13 @@ TonLib was a one of the first libraries for working with TON blockchain
 * [Juston](https://juston.io) - Wallet has a built-in browser that can open sites in the .ton domain zone without the need for settings. Available on iOS.
 * [Coin98 Wallet](https://wallet.coin98.com) - A mobile and browser extension wallet with multi-chain support.
 
+# How to contribute?
+
+1. Decide what you want to change in awesome-ton repo
+2. On the [awesome-ton](https://github.com/ton-community/awesome-ton) page click `.` to open online editor
+3. Make changes, describe them, and make a commit as Pull Request
+4. Become a contributor to TON! 😎
+
 # License
+
 MIT
