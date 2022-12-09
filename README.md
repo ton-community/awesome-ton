@@ -30,7 +30,6 @@ To add login button to your website or WebApp use these approaches:
 * [tonapi](https://tonapi.io/) - Convenient explorer
 * [dton](https://dton.io) - Good explorer for developers
 * [TON Searcher](https://ton.app/explorers/1644844142) - Simple open-source explorer
-* [TONCOIN Explorer](https://ton.app/explorers/toncoin.tonscan.io) - TONCOIN Explorer
 * [TonMoon Explorer](https://ton.app/explorers/tonmoon-explorer) - Search for addresses, shops and NFT
 * [TON NFT EXPLORER](https://ton.app/explorers/explorer-ton-nft) - Explore TON based NFT collections
 * [TON Explorer](https://ton.app/explorers/tonexp) - Fast, reliable, user-friendly explorer
