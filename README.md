@@ -36,7 +36,6 @@ To add login button to your website or WebApp use these approaches:
 * [TON NFT EXPLORER](https://ton.app/explorers/explorer-ton-nft) - Explore TON based NFT collections
 * [TON Explorer](https://ton.app/explorers/tonexp) - Fast, reliable, user-friendly explorer
 * [Tegro TON Explorer](https://ton.app/explorers/youton-explorer) - Tegro TON Explorer — The Open Network
-* [TelegaSurf](https://ton.app/explorers/telegasurf) - Content Store for Telegram
 * [Explorer Bot](https://ton.app/explorers/tonexpbot) - First Bot-explorer
 * [tonobserver](https://ton.app/explorers/tonobserver) - TON explorer using indexing
 * [TON Scan Mobile](https://ton.app/explorers/tonscanmobile) - First mobile explorer for TON
