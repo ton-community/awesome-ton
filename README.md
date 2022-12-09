@@ -178,8 +178,8 @@ TonLib was a one of the first libraries for working with TON blockchain
 
 # How to contribute?
 
-1. Decide what you want to change in awesome-ton repo
-2. On the [awesome-ton](https://github.com/ton-community/awesome-ton) page click `.` to open online editor
+1. Decide what you want to change in the awesome-ton list.
+2. On the [awesome-ton](https://github.com/ton-community/awesome-ton) page press `.` to open online editor (VSCode)
 3. Make changes, describe them, and make a commit as Pull Request
 4. Become a contributor to TON! 😎
 
