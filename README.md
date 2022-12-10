@@ -54,6 +54,7 @@ To add login button to your website or WebApp use these approaches:
 
 # Go SDK
 * [tonutils-go](https://github.com/xssnick/tonutils-go) — Go utils for TON blockchain.
+* [tongo](https://github.com/startfellows/tongo) — Golang primitives for working with TON.
 
 # JavaScript
 * Payment processing using JavaScript:
