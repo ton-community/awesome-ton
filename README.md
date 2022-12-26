@@ -39,8 +39,7 @@ To add login button to your website or WebApp use these approaches:
 * [TON Scan Mobile](https://ton.app/explorers/tonscanmobile) - First mobile explorer for TON
 * [TonDomenBot](https://ton.app/explorers/ton-domen-bot) - Бот для мониторинга доменов в TON
 
-# Faucets 
-* [Testnet Faucet](https://t.me/testgiver_ton_bot) — Bot for getting testnet TON
+
 
 # Frameworks
 * [Rift](https://github.com/sky-ring/rift) - python framework for building smart contracts
@@ -139,9 +138,6 @@ To add login button to your website or WebApp use these approaches:
 * [twa-dev/sdk](https://github.com/twa-dev/sdk) — npm package for TWA SDK.
 * [twa-dev/Mark42](https://github.com/twa-dev/Mark42) — Mark42 is a simple lightweight tree-shakable UI library for TWA.
 
-# Testnet
-* [Explorer](https://testnet.tonscan.org)
-
 # TonLib SDK
 TonLib was a one of the first libraries for working with TON blockchain
 
@@ -176,6 +172,19 @@ TonLib was a one of the first libraries for working with TON blockchain
 * [MyTonWallet](https://mytonwallet.io) - Web wallet and browser extension for TON – with support of tokens, NFT, TON DNS, TON Sites, TON Proxy, and TON Magic
 * [Juston](https://juston.io) - Wallet has a built-in browser that can open sites in the .ton domain zone without the need for settings. Available on iOS.
 * [Coin98 Wallet](https://wallet.coin98.com) - A mobile and browser extension wallet with multi-chain support.
+
+
+# Testnet
+
+## Faucets 
+* [Testnet Faucet](https://t.me/testgiver_ton_bot) — Bot for getting testnet TON
+
+## Explorer
+* [tonscan.org](https://testnet.tonscan.org)
+* [tonapi.io](https://testnet.tonapi.io/)
+* [ton.sh](https://testnet.ton.sh/)
+* [ton.cx](https://testnet.ton.cx/)
+* [dton.io](https://testnet.dton.io/)
 
 # How to contribute?
 
