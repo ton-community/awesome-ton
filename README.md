@@ -92,6 +92,12 @@ To add login button to your website or WebApp use these approaches:
 # Launchpads
 * [Tonstarter](https://tonstarter.com/) — Launchpad for projects
 
+# Dexes
+* [STON.fi](http://app.ston.fi) — an AMM DEX for the TON Blockchain. 
+* [DeDust](http://dedust.io/dex/swap) — a DEX for the TON Blockchain supporting the import of any tokens.
+* [TonSwap](http://tonswap.org) — AMM DEX for the TON Blockchain developed by Mint.xyz.
+* [Tegro.Finance](http://tegro.finance) — a dex for the TON Blockchain.
+
 # Libraries
 * [TonWeb](https://github.com/toncenter/tonweb) - Browser and NodeJS js library
 * [ton](https://github.com/ex3ndr/ton) - Typescript-based rewrite of TonWeb
