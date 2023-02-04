@@ -66,7 +66,7 @@ To add login button to your website or WebApp use these approaches:
 * [Web Wallet source code](https://github.com/toncenter/ton-wallet) (tonweb, no comments)
 
 # JavaScript SDK
-* [ton-community/ton-js](https://github.com/ton-community/ton) — Cross-platform client for TON blockchain, by ton-community
+* [ton-core/ton](https://github.com/ton-core/ton) — Cross-platform client for TON blockchain, by ton-core
 * [toncenter/tonweb](https://github.com/toncenter/tonweb) — Cross-platform client for TON blockchain, by TonCenter
 * [@tegro/ton3-client](https://github.com/TegroTON/ton3-client) — JS ton3-client for tonhold API, by TonHold
 * [nns2009/ton-payment-tracker](https://github.com/nns2009/ton-payment-tracker) — Ton Payment Tracker
@@ -100,7 +100,7 @@ To add login button to your website or WebApp use these approaches:
 
 # Libraries
 * [TonWeb](https://github.com/toncenter/tonweb) - Browser and NodeJS js library
-* [ton](https://github.com/ex3ndr/ton) - Typescript-based rewrite of TonWeb
+* [ton](https://github.com/ton-core/ton) - Typescript-based rewrite of TonWeb
 * [ton3](https://github.com/tonstack/ton3) - Pure TypeScript low-level TON Blockchain interaction library
 * [adnl-js](https://github.com/tonstack/adnl-js) - JavaScript ADNL protocol implementation
 * [pyTONv3](https://github.com/EmelyanenkoK/pytonv3) - Python-based HTTP API proxy
