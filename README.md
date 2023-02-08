@@ -1,12 +1,12 @@
 # Awesome Toncoin
-💎 A collection of awesome Toncoin libraries, tools, frameworks and software
+💎 A collection of awesome Toncoin libraries, tools, frameworks, and software
 
 # APIs
 * [TonCenter](https://toncenter.com/) — Fast and reliable HTTP API for The Open Network
-* [TonApi.io](https://tonapi.io/) — API that allows to work with indexed blockchain information
+* [TonApi.io](https://tonapi.io/) — API that allows working with indexed blockchain information
 
 # Authorization SDK
-To add login button to your website or WebApp use these approaches:
+To add a login button to your website or WebApp use these approaches:
 * [ton-connect/sdk](https://github.com/ton-connect/sdk) — unified standard for TON Ecosystem
 * [tonkeeper/ton-connect](https://github.com/tonkeeper/ton-connect/blob/main/TonConnectSpecification.md) — SDK by Tonkeeper
 * [tonhub/tonhub-connect](https://developers.tonhub.com/docs/apps) — SDK by Tonhub
@@ -30,7 +30,7 @@ To add login button to your website or WebApp use these approaches:
 * [tonapi](https://tonapi.io/) - Convenient explorer
 * [dton](https://dton.io) - Good explorer for developers
 * [TON Searcher](https://ton.app/explorers/1644844142) - Simple open-source explorer
-* [TonMoon Explorer](https://ton.app/explorers/tonmoon-explorer) - Search for addresses, shops and NFT
+* [TonMoon Explorer](https://ton.app/explorers/tonmoon-explorer) - Search for addresses, shops, and NFT
 * [TON NFT EXPLORER](https://ton.app/explorers/explorer-ton-nft) - Explore TON based NFT collections
 * [TON Explorer](https://ton.app/explorers/tonexp) - Fast, reliable, user-friendly explorer
 * [Tegro TON Explorer](https://ton.app/explorers/youton-explorer) - Tegro TON Explorer — The Open Network
@@ -145,7 +145,7 @@ To add login button to your website or WebApp use these approaches:
 * [twa-dev/Mark42](https://github.com/twa-dev/Mark42) — Mark42 is a simple lightweight tree-shakable UI library for TWA.
 
 # TonLib SDK
-TonLib was a one of the first libraries for working with TON blockchain
+TonLib was one of the first libraries for working with TON blockchain
 
 [C++ TonLib](https://github.com/ton-blockchain/ton/tree/master/example/cpp)
 [Python TonLib wrapper](https://github.com/toncenter/pytonlib)
@@ -187,6 +187,12 @@ TonLib was a one of the first libraries for working with TON blockchain
 
 ## APIs
 * [toncenter](https://testnet.toncenter.com/)
+
+## DNS
+* [dns.ton.org](https://dns.ton.org/?testnet=true)
+
+## NFT Marketplace
+* [getgems](https://testnet.getgems.io/)
 
 ## Explorer
 * [tonscan.org](https://testnet.tonscan.org)
