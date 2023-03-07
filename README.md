@@ -16,6 +16,10 @@ To add a login button to your website or WebApp use these approaches:
 * [Nominator Pool](https://github.com/EmelyanenkoK/nominator_pool) - WIP nominator pool
 * [Multisig](https://github.com/akifoq/multisig) - original multisig implementation
 * [Ton Starter Boilerplate](https://github.com/ton-defi-org/tonstarter-contracts) - great place to start learning by example
+* [JuiceBox](https://github.com/Gajesh2007/Juicebox_TON) - Crowdfund Your DAO 
+* [Coin Flip](https://github.com/Gajesh2007/CoinFlip_TON) - Flip & Try Your Luck
+* [MasterChef](https://github.com/Gajesh2007/MasterChef) - Stake & Farm
+* [Ton-By-Example](https://github.com/Gajesh2007/ton-by-example) - Bundle of TON Smart Contracts
 
 # End-points
 * [GetBlock Nodes](https://getblock.io/nodes/ton/) — connect and test your dApp to TON using GetBlocks Nodes.
