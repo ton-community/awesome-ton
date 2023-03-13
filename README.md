@@ -39,6 +39,29 @@ To add a login button to your website or WebApp use these approaches:
 * [TON Scan Mobile](https://ton.app/explorers/tonscanmobile) - First mobile explorer for TON
 * [TonDomenBot](https://ton.app/explorers/ton-domen-bot) - Бот для мониторинга доменов в TON
 
+#  TON Services Compatible with TON Connect 2.0
+* getgems.io 
+* ston.fi 
+* tonstarter.com 
+* stickerface.io/member 
+* ton.diamonds 
+* minter.ton.org 
+* dedust.io 
+* app.fan-ton.com 
+* vk.com/vk_nft_hub 
+* tegro.finance 
+* beta.disintar.io 
+* toncap.net 
+* tonverifier.live 
+* avanchange.com 
+* sale.tonpartisan.com 
+* cryptomus.com 
+* cryptogas.shop/ton 
+* ton.gagarin.world/app/ 
+* libermall.com 
+* daolama.co 
+* marketplace.playmuse.org 
+* ton.vote
 
 
 # Frameworks
