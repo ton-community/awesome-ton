@@ -181,6 +181,7 @@ TonLib was one of the first libraries for working with TON blockchain
 # Utilities
 * [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator for The Open Network's standard wallets
 * [custon](https://github.com/TON-NFT/custon) - User-friendly generator of custom TON wallet addresses written in JS
+* [WebArchive.ton](http://webarchive.ton) - A TON Site generator and a migration tool to The Open Network for friendly people.
 
 # Usage examples
 * [Desktop standard wallet (C++ and Qt)](https://github.com/ton-blockchain/wallet-desktop)
