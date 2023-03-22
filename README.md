@@ -66,7 +66,9 @@ To add a login button to your website or WebApp use these approaches:
 * daolama.co 
 * marketplace.playmuse.org 
 * ton.vote
-
+* megaton.fi
+* wton.dev
+* bridge.orbitchain.io
 
 # Frameworks
 * [Rift](https://github.com/sky-ring/rift) - python framework for building smart contracts
@@ -112,6 +114,7 @@ To add a login button to your website or WebApp use these approaches:
 
 * [Scaleton](http://scaleton.io/) — see your custom token balances.
 * [@tegro/ton3-client](https://github.com/TegroTON/ton3-client#jettons-example) — SDK to query information about Jettons.
+* [WTON Gateway](https://wton.dev/) - Your one and only, Gateway to WTON
 
 # Kotlin / Java SDK
 * [ton-kotlin](https://github.com/andreypfau/ton-kotlin) — Kotlin SDK for TON blockchain
@@ -124,6 +127,10 @@ To add a login button to your website or WebApp use these approaches:
 * [DeDust](http://dedust.io/dex/swap) — a DEX for the TON Blockchain supporting the import of any tokens.
 * [TonSwap](http://tonswap.org) — an AMM DEX for the TON Blockchain developed by Mint.xyz.
 * [Tegro.Finance](http://tegro.finance) — a DEX for the TON Blockchain.
+* [Megaton Finance](https://megaton.fi) - Deposit Crypto, reap rewards every day
+
+# Bridges
+* [Orbit Bridge](https://bridge.orbitchain.io) - Fast and secure way for token conversion
 
 # Libraries
 * [TonWeb](https://github.com/toncenter/tonweb) - Browser and NodeJS js library
