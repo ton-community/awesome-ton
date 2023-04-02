@@ -25,6 +25,7 @@ To add a login button to your website or WebApp use these approaches:
 * [GetBlock Nodes](https://getblock.io/nodes/ton/) — connect and test your dApp to TON using GetBlocks Nodes.
 
 # Explorers
+* [3xpl.com/ton](https://3xpl.com/ton) - Fastest ad-free universal block explorer
 * [tonwhales.com/explorer](https://tonwhales.com/explorer) - User friendly explorer and with detailed technical info
 * [ton.sh](https://ton.sh) - official blockchain explorer, supports only recent transactions
 * [explorer.toncoin.org](https://explorer.toncoin.org) - Advanced explorer for developers
