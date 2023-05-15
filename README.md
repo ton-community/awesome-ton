@@ -160,17 +160,18 @@ To add a login button to your website or WebApp use these SDKs:
 * [twa-dev/Mark42](https://github.com/twa-dev/Mark42) — Mark42 is a simple lightweight tree-shakable UI library for TWA.
 
 ## TonLib SDK
-TonLib was one of the first libraries for working with TON blockchain
+TonLib was one of the first libraries for working with TON blockchain:
 
-[C++ TonLib](https://github.com/ton-blockchain/ton/tree/master/example/cpp)
-[Python TonLib wrapper](https://github.com/toncenter/pytonlib)
-[Golang TonLib wrapper](https://github.com/ton-blockchain/tonlib-go)
-[Java TonLib wrapper (JNI)](https://github.com/ton-blockchain/tonlib-java)
-[tonlib-xcframework](https://github.com/labraburn/tonlib-xcframework) - builder for Apple that generates .xcramework for all architectures
-[labraburn/SwiftyTON](https://github.com/labraburn/SwiftyTON) - native Swift wrapper for tonlib with async/await
-[labraburn/node-tonlib](https://github.com/labraburn/node-tonlib) - C++ addon for NodeJS to work with tonlibjson
+* [C++ TonLib](https://github.com/ton-blockchain/ton/tree/master/example/cpp)
+* [Python TonLib wrapper](https://github.com/toncenter/pytonlib)
+* [Golang TonLib wrapper](https://github.com/ton-blockchain/tonlib-go)
+* [Java TonLib wrapper (JNI)](https://github.com/ton-blockchain/tonlib-java)
+* [tonlib-xcframework](https://github.com/labraburn/tonlib-xcframework) - builder for Apple that generates .xcramework for all architectures
+* [labraburn/SwiftyTON](https://github.com/labraburn/SwiftyTON) - native Swift wrapper for tonlib with async/await
+* [labraburn/node-tonlib](https://github.com/labraburn/node-tonlib) - C++ addon for NodeJS to work with tonlibjson
 
 ## Utilities
+
 * [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator for The Open Network's standard wallets
 * [custon](https://github.com/TON-NFT/custon) - User-friendly generator of custom TON wallet addresses written in JS
 * [TON Web Archive Web Client](https://feliciss.itcouldbewor.se/tonwebarchivewebclient) - TON Web Archive is an app to archive websites from Clearnet to TON Darknet with .ton domains.
