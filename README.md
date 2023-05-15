@@ -92,6 +92,7 @@ To add a login button to your website or WebApp use these SDKs:
 * [tonRocket-api-sdk](https://github.com/danya7423/tonRocket-api-sdk) — library for easy work with the TON Rocket API
 
 ## Jettons (Fungible Tokens)
+
 * [Jetton Live](https://jetton.live/) - service for minting arbitrary jettons
 * [Tonox Minter](https://minter.tonox.exchange/) - another service for minting arbitrary jettons
 * [Jettons Standard](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md)
@@ -99,7 +100,6 @@ To add a login button to your website or WebApp use these SDKs:
 * [Jetton.Live](https://jetton.live/) — open-source Jetton Deployer dApp
 * [Jetton Deployer](https://github.com/ton-defi-org/jetton-deployer-contracts) Contracts (FunC, TL-B)
 * [Jetton Deployer](https://github.com/ton-defi-org/jetton-deployer-webclient) WebClient (React, TypeScript)
-
 * [Scaleton](http://scaleton.io/) — see your custom token balances.
 * [@tegro/ton3-client](https://github.com/TegroTON/ton3-client#jettons-example) — SDK to query information about Jettons.
 * [WTON Gateway](https://wton.dev/) - Your one and only, Gateway to WTON
