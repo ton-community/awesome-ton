@@ -58,7 +58,8 @@ To add a login button to your website or WebApp use these SDKs:
 * [TonDomenBot](https://ton.app/explorers/ton-domen-bot) - Бот для мониторинга доменов в TON
 
 ## Frameworks
-* [Rift](https://github.com/sky-ring/rift) - python framework for building smart contracts
+* [Blueprint](https://github.com/ton-community/blueprint) — A development environment for writing, testing, and deploying smart contracts.
+* [Rift](https://github.com/sky-ring/rift) - Python framework for building smart contracts.
 
 ## Funds
 * [Toncoin Fund](https://www.toncoin.fund/)
