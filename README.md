@@ -8,7 +8,7 @@
 ADD link to Tact language community in the future https://twitter.com/tact_language
 --->
 
-A curated collection of awesome The Open Network libraries, tools, frameworks, services, protocols and smart contracts.
+A curated collection of awesome The Open Network libraries, tools, services, protocols and smart contracts.
 
 ## APIs
 
