@@ -8,7 +8,36 @@
 ADD link to Tact language community in the future https://twitter.com/tact_language
 --->
 
-A curated collection of awesome The Open Network libraries, tools, services, protocols and smart contracts.
+A curated list of remarkable libraries, tools, services, protocols, and smart contracts related to TON.
+
+### Table of Contents
+- [APIs](#apis)
+- [Authorization SDKs](#authorization-sdks)
+- [Smart Contract Examples](#smart-contract-examples)
+- [Endpoints](#endpoints)
+- [Explorers](#explorers)
+- [Frameworks](#frameworks)
+- [Funds](#funds)
+- [Languages and SDKs](#languages-and-sdks)
+  - [Go](#go)
+  - [JavaScript](#javascript)
+  - [Kotlin / Java](#kotlin--java)
+  - [Python](#python)
+- [Launchpads](#launchpads)
+- [Decentralized Exchanges (DEX)](#decentralized-exchanges-dex)
+- [Bridges](#bridges)
+- [Monitoring](#monitoring)
+- [Fungible Tokens (Jettons)](#fungible-tokens-jettons)
+- [Non-Fungible Tokens (NFTs)](#non-fungible-tokens-nfts)
+- [Staking](#staking)
+- [Telegram Web Apps (TWAs)](#telegram-web-apps-twas)
+- [TonLib SDK](#tonlib-sdk)
+- [Utilities](#utilities)
+- [UX/UI](#uxui)
+- [Wallets](#wallets)
+- [Testnet](#testnet)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
 
 ## APIs
 
@@ -16,7 +45,7 @@ A curated collection of awesome The Open Network libraries, tools, services, pro
 * [TonApi.io](https://tonapi.io/) — API that allows working with indexed blockchain information.
 * [TonConsole.com](https://tonconsole.com/) — one place with powerful API and deep commercial integrations.
 
-## Authorization SDK
+## Authorization SDKs
 
 To add a login button to your website or WebApp use these SDKs:
 
@@ -33,7 +62,7 @@ To add a login button to your website or WebApp use these SDKs:
 * [MasterChef](https://github.com/Gajesh2007/MasterChef) - Stake & Farm
 * [Ton-By-Example](https://github.com/Gajesh2007/ton-by-example) - Bundle of TON Smart Contracts
 
-## End-points
+## Endpoints
 * [GetBlock Nodes](https://getblock.io/nodes/ton/) — connect and test your dApp to TON using GetBlocks Nodes.
 
 ## Explorers
@@ -65,25 +94,11 @@ To add a login button to your website or WebApp use these SDKs:
 * [Toncoin Fund](https://www.toncoin.fund/)
 * [TAV Fund](https://tav-incubation.com/)
 
-## Go
-* [10+ examples from xssnick/tonutils-go](https://github.com/xssnick/tonutils-go/tree/master/example)
+## Languages and SDKs
 
-## Go SDKs
-* [tonutils-go](https://github.com/xssnick/tonutils-go) — Go utils for TON blockchain.
-* [tongo](https://github.com/startfellows/tongo) — Golang primitives for working with TON.
+### JavaScript
 
-## JavaScript
-
-### Payment processing using JavaScript
-* [Create a key pair and a wallet](https://github.com/toncenter/examples/blob/main/common.js)
-* [Accepting deposits to a single wallet](https://github.com/toncenter/examples/blob/main/deposits-single-wallet.js)
-* [Accepting deposits to multiple wallets](https://github.com/toncenter/examples/blob/main/deposits-multi-wallet.js) (tonweb)
-* [Withdrawal processing](https://github.com/toncenter/examples/blob/main/withdrawals.js)
-* [Payment Channels Example](https://github.com/toncenter/payment-channels-example/blob/main/index.js)
-* [TON Bridge front-end](https://github.com/ton-blockchain/bridge)
-* [Web Wallet source code](https://github.com/toncenter/ton-wallet)
-
-### JavaScript SDK
+#### SDKs
 * [ton-core/ton](https://github.com/ton-core/ton) — Cross-platform client for TON blockchain, by ton-core
 * [toncenter/tonweb](https://github.com/toncenter/tonweb) — Cross-platform client for TON blockchain, by TonCenter
 * [@tegro/ton3-client](https://github.com/TegroTON/ton3-client) — JS ton3-client for tonhold API, by TonHold
@@ -92,26 +107,47 @@ To add a login button to your website or WebApp use these SDKs:
 * [@tonapps/tonconnect-server](https://npm.im/@tonapps/tonconnect-server) — a library that allows you to add Tonkeeper authorization to your project
 * [tonRocket-api-sdk](https://github.com/danya7423/tonRocket-api-sdk) — library for easy work with the TON Rocket API
 
-## Jettons (Fungible Tokens)
+#### Examples
+* [Create a key pair and a wallet](https://github.com/toncenter/examples/blob/main/common.js)
+* [Accepting deposits to a single wallet](https://github.com/toncenter/examples/blob/main/deposits-single-wallet.js)
+* [Accepting deposits to multiple wallets](https://github.com/toncenter/examples/blob/main/deposits-multi-wallet.js) (tonweb)
+* [Withdrawal processing](https://github.com/toncenter/examples/blob/main/withdrawals.js)
+* [Payment Channels Example](https://github.com/toncenter/payment-channels-example/blob/main/index.js)
+* [TON Bridge front-end](https://github.com/ton-blockchain/bridge)
+* [Web Wallet source code](https://github.com/toncenter/ton-wallet)
 
-* [Jetton Live](https://jetton.live/) - service for minting arbitrary jettons
-* [Tonox Minter](https://minter.tonox.exchange/) - another service for minting arbitrary jettons
-* [Jettons Standard](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md)
-* [Smart Contracts Implementation (FunC)](https://github.com/ton-blockchain/token-contract)
-* [Jetton.Live](https://jetton.live/) — open-source Jetton Deployer dApp
-* [Jetton Deployer](https://github.com/ton-defi-org/jetton-deployer-contracts) Contracts (FunC, TL-B)
-* [Jetton Deployer](https://github.com/ton-defi-org/jetton-deployer-webclient) WebClient (React, TypeScript)
-* [Scaleton](http://scaleton.io/) — see your custom token balances.
-* [@tegro/ton3-client](https://github.com/TegroTON/ton3-client#jettons-example) — SDK to query information about Jettons.
-* [WTON Gateway](https://wton.dev/) - Your one and only, Gateway to WTON
+### Go
 
-## Kotlin / Java SDK
+#### SDKs
+* [tonutils-go](https://github.com/xssnick/tonutils-go) — Go utils for TON blockchain.
+* [tongo](https://github.com/startfellows/tongo) — Golang primitives for working with TON.
+
+#### Examples
+* [10+ examples from xssnick/tonutils-go](https://github.com/xssnick/tonutils-go/tree/master/example)
+
+
+### Kotlin / Java
 * [ton-kotlin](https://github.com/andreypfau/ton-kotlin) — Kotlin SDK for TON blockchain
+
+
+### Python
+
+#### SDKs
+* [psylopunk/pytonlib](https://github.com/psylopunk/pytonlib) — Python SDK
+* [toncenter/pytonlib](https://github.com/toncenter/pytonlib) — Python SDK
+* [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk) — Analogue of the tonweb js library
+* [tonrocketapisdk](https://github.com/danya7423/tonRocket-api-sdk-py) — library for easy work with the TON Rocket API
+
+#### Examples
+* [psylopank/pytonlib examples](https://github.com/psylopunk/pytonlib/tree/main/examples)
+* [Transfer NFT & Jettons by creating a transfer message from an owner wallet](https://github.com/tonfactory/tonsdk#transfer-nft--jettons-by-creating-a-transfer-message-from-an-owner-wallet)
+* [Create mnemonic, init wallet class, create external message to deploy the wallet](https://github.com/tonfactory/tonsdk#create-mnemonic-init-wallet-class-create-external-message-to-deploy-the-wallet)
+* [Accept payments using Telegram bot](https://www.tonspace.co/develop/dapps/payment-processing/accept-payments-in-a-telegram-bot) (Python with Aiogram)
 
 ## Launchpads
 * [Tonstarter](https://tonstarter.com/) — Launchpad for projects
 
-## DEX
+## Decentralized Exchanges (DEX)
 * [STON.fi](http://app.ston.fi) — an AMM DEX for the TON Blockchain. 
 * [DeDust](http://dedust.io/dex/swap) — a DEX for the TON Blockchain supporting the import of any tokens.
 * [TonSwap](http://tonswap.org) — an AMM DEX for the TON Blockchain developed by Mint.xyz.
@@ -126,7 +162,20 @@ To add a login button to your website or WebApp use these SDKs:
 * [TON Notify Bot](https://t.me/TONNotifyBot) - Instant notifications about transfer coins of the TON address in Telegram. Link to [GitHub](https://github.com/tonbase/ton-notify-bot)
 * [TOKEN INSIDE](https://t.me/token_inside) - Monitoring of new jettons, meta data changes and other events
 
-## NFTs
+## Fungible Tokens (Jettons)
+
+* [Jetton Live](https://jetton.live/) - service for minting arbitrary jettons
+* [Tonox Minter](https://minter.tonox.exchange/) - another service for minting arbitrary jettons
+* [Jettons Standard](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md)
+* [Smart Contracts Implementation (FunC)](https://github.com/ton-blockchain/token-contract)
+* [Jetton.Live](https://jetton.live/) — open-source Jetton Deployer dApp
+* [Jetton Deployer](https://github.com/ton-defi-org/jetton-deployer-contracts) Contracts (FunC, TL-B)
+* [Jetton Deployer](https://github.com/ton-defi-org/jetton-deployer-webclient) WebClient (React, TypeScript)
+* [Scaleton](http://scaleton.io/) — see your custom token balances.
+* [@tegro/ton3-client](https://github.com/TegroTON/ton3-client#jettons-example) — SDK to query information about Jettons.
+* [WTON Gateway](https://wton.dev/) - Your one and only, Gateway to WTON
+
+## Non-Fungible Tokens (NFTs)
 * [NFT Standard](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md)
 * [NFTRoyalty Standard Extension](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md)
 * [Smart Contracts Implementation (FunC)](https://github.com/ton-blockchain/token-contract/)
@@ -137,30 +186,19 @@ To add a login button to your website or WebApp use these SDKs:
 * [NFT Deployer](https://github.com/anomaly-guard/nft-deployer) (Python, with comments)
 * [LiberMall/tnt](https://github.com/LiberMall/tnt) — TNT is an all-in-one command line tool to query, edit, and mint new Non-Fungible Tokens on The Open Network
 
-## Python
-* [psylopank/pytonlib examples](https://github.com/psylopunk/pytonlib/tree/main/examples)
-* [Transfer NFT & Jettons by creating a transfer message from an owner wallet](https://github.com/tonfactory/tonsdk#transfer-nft--jettons-by-creating-a-transfer-message-from-an-owner-wallet)
-* [Create mnemonic, init wallet class, create external message to deploy the wallet](https://github.com/tonfactory/tonsdk#create-mnemonic-init-wallet-class-create-external-message-to-deploy-the-wallet)
-* [Accept payments using Telegram bot](https://www.tonspace.co/develop/dapps/payment-processing/accept-payments-in-a-telegram-bot) (Python with Aiogram)
-
-### Python SDK
-* [psylopunk/pytonlib](https://github.com/psylopunk/pytonlib) — Python SDK
-* [toncenter/pytonlib](https://github.com/toncenter/pytonlib) — Python SDK
-* [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk) — Analogue of the tonweb js library
-* [tonrocketapisdk](https://github.com/danya7423/tonRocket-api-sdk-py) — library for easy work with the TON Rocket API
-
 ## Staking
 * [Ton Whales Staking](https://tonwhales.com/staking) - staking service with the 50 TON minimal deposit
 * [Red Ziccurat bot](https://t.me/red_ziccurat_staking_bot) - official staking from redcompany.team
 
-## Telegram Web Apps (TWA)
+## Telegram Web Apps (TWAs)
 * [Telegram WebApps Documentation](https://core.telegram.org/bots/webapps) — full description on Telegram website
 * [ton-defi-org/tonstarter-twa](https://github.com/ton-defi-org/tonstarter-twa) — template for a new TWA interacting with the TON.
 * [twa-dev/boilerplate](https://github.com/twa-dev/Boilerplate) — another boilerplate for a new TWA.
 * [twa-dev/sdk](https://github.com/twa-dev/sdk) — npm package for TWA SDK.
 * [twa-dev/Mark42](https://github.com/twa-dev/Mark42) — Mark42 is a simple lightweight tree-shakable UI library for TWA.
 
-## TonLib SDK
+## TonLib SDKs
+
 TonLib was one of the first libraries for working with TON blockchain:
 
 * [C++ TonLib](https://github.com/ton-blockchain/ton/tree/master/example/cpp)
@@ -171,17 +209,17 @@ TonLib was one of the first libraries for working with TON blockchain:
 * [labraburn/SwiftyTON](https://github.com/labraburn/SwiftyTON) - native Swift wrapper for tonlib with async/await
 * [labraburn/node-tonlib](https://github.com/labraburn/node-tonlib) - C++ addon for NodeJS to work with tonlibjson
 
+### Examples
+* [Desktop standard wallet (C++ and Qt)](https://github.com/ton-blockchain/wallet-desktop)
+* [Android standard wallet (Java)](https://github.com/ton-blockchain/wallet-android)
+* [iOS standard wallet (Swift)](https://github.com/ton-blockchain/wallet-ios)
+* [TonLib CLI (C++)](https://github.com/ton-blockchain/ton/blob/master/tonlib/tonlib/tonlib-cli.cpp)
+
 ## Utilities
 
 * [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator for The Open Network's standard wallets
 * [custon](https://github.com/TON-NFT/custon) - User-friendly generator of custom TON wallet addresses written in JS
 * [TON Web Archive Web Client](https://feliciss.itcouldbewor.se/tonwebarchivewebclient) - TON Web Archive is an app to archive websites from Clearnet to TON Darknet with .ton domains.
-
-## Usage examples
-* [Desktop standard wallet (C++ and Qt)](https://github.com/ton-blockchain/wallet-desktop)
-* [Android standard wallet (Java)](https://github.com/ton-blockchain/wallet-android)
-* [iOS standard wallet (Swift)](https://github.com/ton-blockchain/wallet-ios)
-* [TonLib CLI (C++)](https://github.com/ton-blockchain/ton/blob/master/tonlib/tonlib/tonlib-cli.cpp)
 
 ## UX/UI
 * [TON Design System](https://github.com/designervoid/ton-design-system) - Design system which provides [TON Brand Assets](https://ton.org/brand-assets) as Atom CSS
@@ -198,33 +236,33 @@ TonLib was one of the first libraries for working with TON blockchain:
 * [Coin98 Wallet](https://wallet.coin98.com) - A mobile and browser extension wallet with multi-chain support.
 
 
-# Testnet
+## Testnet
 
-## Faucets 
+### Faucets 
 * [Testnet Faucet](https://t.me/testgiver_ton_bot) — Bot for getting testnet TON
 
-## APIs
+### APIs
 * [toncenter](https://testnet.toncenter.com/)
 
-## DNS
+### DNS Providers
 * [dns.ton.org](https://dns.ton.org/?testnet=true)
 
-## NFT Marketplace
+### NFT Marketplaces
 * [GetGems.io](https://testnet.getgems.io/)
 
-## Explorer
+### Explorers
 * [tonscan.org](https://testnet.tonscan.org)
 * [tonapi.io](https://testnet.tonapi.io/)
 * [ton.sh](https://testnet.ton.sh/)
 * [ton.cx](https://testnet.ton.cx/)
 * [dton.io](https://testnet.dton.io/)
 
-# How to contribute?
+# Contribution Guidelines
 
-1. Decide what you want to change in the awesome-ton list.
-2. On the [awesome-ton](https://github.com/ton-community/awesome-ton) page press `.` to open online editor (VSCode)
-3. Make changes, describe them, and make a commit as Pull Request
-4. Become a contributor to TON! 😎
+1. Decide on the changes you want to make in the awesome-ton list.
+2. Press `.` on the `awesome-ton` page to open the online editor (VSCode).
+3. Make changes, describe them, and submit a commit as a Pull Request.
+4. Congratulations, you're now a contributor to TON! 😎
 
 # License
 
