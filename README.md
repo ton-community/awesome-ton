@@ -124,7 +124,7 @@ To add a login button to your website or WebApp use these SDKs:
 ## Monitoring
 * [TON Grafana](https://tonmon.xyz/) - Blockchain metrics
 * [TON Notify Bot](https://t.me/TONNotifyBot) - Instant notifications about transfer coins of the TON address in Telegram. Link to [GitHub](https://github.com/tonbase/ton-notify-bot)
-* [JETTON INSIDE](https://t.me/jetton_inside) - Monitoring of new jettons, meta data changes and other events ([TOKEN INSIDE](https://t.me/token_inside) - русскоязычное зеркало)
+* [TOKEN INSIDE](https://t.me/token_inside) - Monitoring of new jettons, meta data changes and other events
 
 ## NFTs
 * [NFT Standard](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md)
