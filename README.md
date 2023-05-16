@@ -67,24 +67,26 @@ To add a login button to your website or WebApp use these SDKs:
 
 ## Explorers
 
-* [3xpl.com/ton](https://3xpl.com/ton) - Fastest ad-free universal block explorer
-* [tonwhales.com/explorer](https://tonwhales.com/explorer) - User friendly explorer and with detailed technical info
-* [ton.sh](https://ton.sh) - official blockchain explorer, supports only recent transactions
-* [explorer.toncoin.org](https://explorer.toncoin.org) - Advanced explorer for developers
-* [ton.cx](https://ton.cx) - Another advanced explorer for devlopers
-* [tonscan](https://tonscan.org/) - another official blockchain explorer
-* [tonscanplus](https://chrome.google.com/webstore/detail/tonscan%2B/egonpnmjojlaogggbjklkbkflgipljpd/related) - Google Chrome extencion and [the community-driven address book](https://github.com/menschee/tonscanplus/blob/main/data.json). Apart from name tags, the extension enables one to choose a view mode as well as sort out transactions by the number of Toncoin. The extension is now [open source](https://github.com/menschee/tonscanplus) and ready for feedback. Feel free to report any bugs via [bot](https://t.me/thedailytonbot)
-* [tonapi](https://tonapi.io/) - Convenient explorer
-* [dton](https://dton.io) - Good explorer for developers
-* [TON Searcher](https://ton.app/explorers/1644844142) - Simple open-source explorer
-* [TonMoon Explorer](https://ton.app/explorers/tonmoon-explorer) - Search for addresses, shops, and NFT
-* [TON NFT EXPLORER](https://ton.app/explorers/explorer-ton-nft) - Explore TON based NFT collections
-* [TON Explorer](https://ton.app/explorers/tonexp) - Fast, reliable, user-friendly explorer
-* [Tegro TON Explorer](https://ton.app/explorers/youton-explorer) - Tegro TON Explorer — The Open Network
-* [Explorer Bot](https://ton.app/explorers/tonexpbot) - First Bot-explorer
-* [tonobserver](https://ton.app/explorers/tonobserver) - TON explorer using indexing
-* [TON Scan Mobile](https://ton.app/explorers/tonscanmobile) - First mobile explorer for TON
-* [TonDomenBot](https://ton.app/explorers/ton-domen-bot) - Бот для мониторинга доменов в TON
+Discover various blockchain explorers, each providing unique features and tools to interact with the TON blockchain.
+
+- [TonScan](https://tonscan.org/): An official blockchain explorer with a streamlined interface.
+- [TonWhales](https://tonwhales.com/explorer): A user-friendly explorer with comprehensive technical info.
+- [TonAPI](https://tonapi.io/): A convenient and intuitive explorer.
+- [DTon](https://dton.io): A well-structured explorer for developers.
+- [3xpl](https://3xpl.com/ton): A fast, ad-free universal block explorer.
+- [Ton.sh](https://ton.sh): The official blockchain explorer, supports only recent transactions.
+- [Explorer.toncoin.org](https://explorer.toncoin.org): An advanced explorer tailored for developers.
+- [Ton.cx](https://ton.cx): Another developers' favorite, offering advanced features.
+- [TonScan+](https://chrome.google.com/webstore/detail/tonscan%2B/egonpnmjojlaogggbjklkbkflgipljpd/related): A Google Chrome extension and a community-driven address book with an option to choose a view mode and sort transactions by the number of Toncoin. Open source and open for feedback, feel free to report any bugs via this [bot](https://t.me/thedailytonbot).
+- [TON Searcher](https://ton.app/explorers/1644844142): A simple, open-source explorer.
+- [TonMoon Explorer](https://ton.app/explorers/tonmoon-explorer): Search for addresses, shops, and NFT.
+- [TON NFT EXPLORER](https://ton.app/explorers/explorer-ton-nft): Explore TON based NFT collections.
+- [TON Explorer](https://ton.app/explorers/tonexp): Fast, reliable, and user-friendly explorer.
+- [Tegro TON Explorer](https://ton.app/explorers/youton-explorer): The Open Network's explorer by Tegro.
+- [Explorer Bot](https://ton.app/explorers/tonexpbot): The first bot-powered explorer.
+- [TonObserver](https://ton.app/explorers/tonobserver): An explorer leveraging indexing.
+- [TON Scan Mobile](https://ton.app/explorers/tonscanmobile): The first mobile explorer for TON.
+- [TonDomenBot](https://ton.app/explorers/ton-domen-bot): A bot for monitoring domains in TON.
 
 ## Frameworks
 * [Blueprint](https://github.com/ton-community/blueprint) — A development environment for writing, testing, and deploying smart contracts.
