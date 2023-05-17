@@ -1,5 +1,7 @@
 # Awesome TON (The Open Network)
 
+A curated list of remarkable libraries, tools, services, protocols, and smart contracts related to TON.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Twitter](https://img.shields.io/twitter/follow/ton_blockchain?style=social)](https://twitter.com/ton_blockchain)
 [![Telegram](https://img.shields.io/badge/telegram-TON%20Dev%20Chat-blue?logo=telegram)](https://t.me/tondev_eng)
@@ -8,7 +10,6 @@
 ADD link to Tact language community in the future https://twitter.com/tact_language
 --->
 
-A curated list of remarkable libraries, tools, services, protocols, and smart contracts related to TON.
 
 ### Table of Contents
 - [APIs](#apis)
