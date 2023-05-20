@@ -11,10 +11,17 @@ ADD link to Tact language community in the future https://twitter.com/tact_langu
 --->
 
 
-### Table of Contents
+### 🗂️ Table of Contents
+
 - [APIs](#apis)
 - [Authorization SDKs](#authorization-sdks)
 - [Smart Contract Examples](#smart-contract-examples)
+- 🎓[Education](#education)
+  - 📔 [Basic Theory](#-basic-theory)
+  - ![YouTube](https://cdn.emojidex.com/emoji/mdpi/YouTube.png "YouTube") [YouTube Educational Videos](#-youtube-educational-videos)
+  - 📚 [Community Tutorials](#-community-tutorials)
+  - 🧱 [Smart Contract Examples](#-smart-contract-examples)
+  - 📖 [Guidelines](#-guidelines)
 - [Endpoints](#endpoints)
 - [Explorers](#explorers)
 - [Frameworks](#frameworks)
@@ -39,6 +46,87 @@ ADD link to Tact language community in the future https://twitter.com/tact_langu
 - [Testnet](#testnet)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
+
+---
+
+## 🎓 Education
+
+
+### 📔 Basic Theory
+* [The Open Network](https://docs.ton.org/learn/introduction)
+* [What is blockchain? What is a smart contract? What is gas?](https://blog.ton.org/what-is-blockchain)
+* [Smart Contract Addresses](https://docs.ton.org/learn/overviews/addresses)
+* [Six unique aspects of TON Blockchain that will surprise Solidity developers](https://blog.ton.org/six-unique-aspects-of-ton-blockchain-that-will-surprise-solidity-developers)
+
+### ![YouTube](https://cdn.emojidex.com/emoji/mdpi/YouTube.png "YouTube") YouTube Educational Videos
+
+
+* [Ton Dev Study](https://www.youtube.com/@WikiMar/playlists) channel
+  * EN
+    * [FunC & Blueprint [EN]](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDjIMAF3XqNI2XGNwdcB3sg)
+    * [TON Development with Fift [EN]](https://www.youtube.com/playlist?list=PLyDBPwv9EPsB47mqzF4Z9K8k6HYqPv6Px)
+    * [TON Development with Python [EN]](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDrQUyuHTsKRzxg6XaTPzhh)
+  * RU
+    * [FunC & Blueprint [RU]](https://www.youtube.com/playlist?list=PLyDBPwv9EPsA5vcUM2vzjQOomf264IdUZ)
+    * [TON Connect - Integration in TON Ecosystem [RU]](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCJ226xS5_dKmXXxWx1CKz_)
+    * [TON Development with Python [RU]](https://www.youtube.com/playlist?list=PLyDBPwv9EPsC-7xbn8b8noZh9a1Xkg42W)
+    * [TON Development with GO [RU]](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCV-GifFVIQ1o3t35j1nj-u)
+    * [TON Development with Fift [RU]](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCYG-hR4N5FRTKUkfM8POgh)
+* [Ton Dev Moscow](https://www.youtube.com/@tondevmoscow/featured) channel
+
+
+
+### 📚 Community Tutorials
+* Smart Contracts and dApps
+  * [Get Started with TON](https://docs.ton.org/develop/onboarding-challenge) 
+  * Ton-Community Hello World
+    * [TON Hello World part 1: Step by step guide for working with your first TON wallet](https://ton-community.github.io/tutorials/01-wallet/)
+    * [TON Hello World part 2: Step by step guide for writing your first smart contract](https://ton-community.github.io/tutorials/02-contract/)
+    * [TON Hello World part 3: Step by step guide for building your first web client](https://ton-community.github.io/tutorials/03-client/)
+    * [TON Hello World part 4: Step by step guide for testing your first smart contract](https://ton-community.github.io/tutorials/04-testing/)
+  * Func Journey
+    * [FunC Journey: Part 1](https://blog.ton.org/func-journey)
+    * [FunC Journey: Part 2](https://blog.ton.org/func-journey-2)
+    * [FunC Journey: Part 3](https://blog.ton.org/func-journey-3)
+  * FunC @romanovichim lessons
+    * [TonFunClessons_Eng](https://github.com/romanovichim/TonFunClessons_Eng)
+    * [TonFunClessons_ru](https://github.com/romanovichim/TonFunClessons_ru)
+  * [How to work with wallet smart contracts](https://docs.ton.org/develop/smart-contracts/tutorials/wallet)
+  * [How to make a simple multisig contract](https://docs.ton.org/develop/smart-contracts/tutorials/multisig)
+  * [Unlocking the Power of TON with Rift Framework](https://blog.ton.org/rift-announcement)
+  * [Interact with multisig wallets using TypeScript](https://docs.ton.org/develop/smart-contracts/tutorials/multisig-js)
+* FT(Jettons) & NFT
+  * [Step by step NFT collection minting](https://docs.ton.org/develop/dapps/tutorials/collection-minting)
+  * [Mint your first Jetton](https://docs.ton.org/develop/dapps/tutorials/jetton-minter)
+* Telegram bot
+  * [Storefront bot with payments in TON](https://docs.ton.org/develop/dapps/tutorials/accept-payments-in-a-telegram-bot)
+  * [Bot with own balance](https://docs.ton.org/develop/dapps/tutorials/accept-payments-in-a-telegram-bot-2)
+  * [Bot for sales of dumplings](https://docs.ton.org/develop/dapps/tutorials/accept-payments-in-a-telegram-bot-js)
+* Ton Connect
+  * [Integration manual](https://docs.ton.org/develop/dapps/ton-connect/integration)
+  * [Telegram bot integration](https://docs.ton.org/develop/dapps/ton-connect/tg-bot-integration)
+  * [Sending messages](https://docs.ton.org/develop/dapps/ton-connect/transactions)
+
+
+### 🧱 Smart Contract Examples
+
+ * [Smart Contract Examples](https://docs.ton.org/develop/smart-contracts/examples)
+
+
+### 📖 Guidelines
+* Smart Contract Development
+  * [Overview](https://docs.ton.org/develop/smart-contracts/guidelines)
+* Develop Apps
+  * [Payments processing](https://docs.ton.org/develop/dapps/asset-processing/)
+  * [TON Jetton processing](https://docs.ton.org/develop/dapps/asset-processing/jettons)
+  * [TON NFT processing](https://docs.ton.org/develop/dapps/asset-processing/nfts)
+  * [TON Metadata Parsing](https://docs.ton.org/develop/dapps/asset-processing/metadata)
+* TON Connect (Integration)
+  * [TON Connect for Developers](https://docs.ton.org/develop/dapps/ton-connect/developers)
+  * [TON Wallet Guidelines](https://docs.ton.org/develop/dapps/ton-connect/wallet-guidelines)
+  * [TON Connect Workflow](https://docs.ton.org/develop/dapps/ton-connect/workflow)
+
+---
 
 ## APIs
 
