@@ -1,4 +1,4 @@
-# Awesome TON (The Open Network)
+# Awesome TON (The Open Network) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of remarkable libraries, tools, services, protocols, and smart contracts related to TON.
 
