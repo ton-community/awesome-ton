@@ -220,7 +220,7 @@ ADD link to Tact language community in the future https://twitter.com/tact_langu
 ### Wallets 
   * [Tonkeeper](https://tonkeeper.com)
   * [TonHub](https://tonhub.com)
-  * [@wallet](https://t.me/wallet) - 
+  * [@wallet](https://t.me/wallet) - TON wallet right in the Telegram.
   * [Ton Android](https://play.google.com/store/apps/details?id=ton.coin.wallet) - Official Android wallet
   * [TON Wallet](https://wallet.ton.org/) - Official Web Wallet
   * [ton-cli](https://github.com/ex3ndr/ton-cli) - CLI wallet
