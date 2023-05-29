@@ -267,4 +267,4 @@ ADD link to Tact language community in the future https://twitter.com/tact_langu
 
 ## License
 
-MIT
+[MIT](LICENSE)
