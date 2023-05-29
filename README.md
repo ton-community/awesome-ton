@@ -1,8 +1,7 @@
-# Awesome TON (The Open Network)
+# Awesome TON (The Open Network) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of remarkable libraries, tools, services, protocols, and smart contracts related to TON.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Twitter](https://img.shields.io/twitter/follow/ton_blockchain?style=social)](https://twitter.com/ton_blockchain)
 [![Telegram](https://img.shields.io/badge/telegram-TON%20Dev%20Chat-blue?logo=telegram)](https://t.me/tondev_eng)
 
