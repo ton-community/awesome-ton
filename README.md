@@ -23,7 +23,6 @@ ADD link to Tact language community in the future https://twitter.com/tact_langu
 - 🧑‍💻 [Get coding](#🧑‍💻-get-coding)
   - [Dev Tools](#dev-tools)
   - [Libraries](#libraries)
-  - [Boilerplates](#boilerplates)
   - [Get help](#get-help)
 - 🗣 [Talks & Workshops](#🗣-talks--workshops)
 - 🗂 [Projects](#🗂-projects)
@@ -131,6 +130,7 @@ ADD link to Tact language community in the future https://twitter.com/tact_langu
 ## 🧑‍💻 Get coding
 
 ### Dev Tools
+  * [Blueprint](https://github.com/ton-community/blueprint/) — A development environment for writing, testing, and deploying smart contracts.
   * [Testnet Faucet](https://t.me/testgiver_ton_bot) — Bot for getting testnet TON
   * [TON Dev Wallet](https://github.com/TonDevWallet/TonDevWallet) - Wallet for developers
   * [Rift](https://github.com/sky-ring/rift) - Python framework for building smart contracts.
@@ -152,9 +152,6 @@ ADD link to Tact language community in the future https://twitter.com/tact_langu
     * [twa-dev/boilerplate](https://github.com/twa-dev/Boilerplate) — another boilerplate for a new TWA.
     * [twa-dev/sdk](https://github.com/twa-dev/sdk) — npm package for TWA SDK.
     * [twa-dev/Mark42](https://github.com/twa-dev/Mark42) — Mark42 is a simple lightweight tree-shakable UI library for TWA.
-
-### Boilerplates
-* [Blueprint](https://github.com/ton-community/blueprint/) — A development environment for writing, testing, and deploying smart contracts.
 
 ### Libraries
   * Python
