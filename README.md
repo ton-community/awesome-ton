@@ -129,7 +129,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [dton.io/graphql](https://dton.io/graphql)
   - [tonapi.io](https://tonapi.io/)
   - [anton.tools](https://anton.tools/)
-
 - Telegram Web Apps (TWAs)
   - [Telegram WebApps Documentation](https://core.telegram.org/bots/webapps) - Full description on Telegram website.
   - [docs.twa.dev](https://docs.twa.dev/) - User-friendly docs from community.
@@ -229,7 +228,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 ## 💵 Funds
 - [Toncoin Fund](https://www.toncoin.fund/)
-- [TAV Fund](https://tav-incubation.com/)
 - [Tonstarter](https://tonstarter.com/hi/)
 
 
