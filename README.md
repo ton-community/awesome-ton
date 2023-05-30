@@ -242,6 +242,7 @@ This section includes a variety of handy utilities that assist with different ta
 - [custon](https://github.com/TON-NFT/custon) - A user-friendly generator of custom TON wallet addresses. This utility is written in JavaScript, providing easy access and manipulation for developers.
 - [TON Grafana](https://tonmon.xyz/) - A powerful tool that provides blockchain metrics for TON. It offers visualizations and analytics for tracking and managing blockchain data.
 - [TON Notify Bot](https://t.me/TONNotifyBot) - [[Sources]](https://github.com/tonbase/ton-notify-bot) - This Telegram bot provides instant notifications about coin transfers of the TON addresses. Stay informed about your transactions in real-time with this handy tool.
+- [Blockchain Network Visualizer](https://github.com/qpwedev/blockchain-network-visualizer) - Draft tool for visualizing TON blockchain network, written in Python. It provides a visual representation of the contracts and transfers between them. Contributions are welcome.
 
 ## 👨‍🎨 UX/UI
 - [TON Design System](https://github.com/designervoid/ton-design-system) 
