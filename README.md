@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Twitter](https://img.shields.io/twitter/follow/ton_blockchain?style=social)](https://twitter.com/ton_blockchain)
-[![Telegram](https://img.shields.io/badge/telegram-TON%20Dev%20Chat-blue?logo=telegram)](https://t.me/tondev_eng)
+[![Telegram](https://img.shields.io/badge/telegram-TON%20Dev%20Chat-blue?logo=telegram)](https://tondev_eng.t.me)
 
 Welcome to Awesome TON - a carefully curated compendium of standout libraries, tools, services, protocols, and smart contracts associated with the TON ecosystem. 
 
