@@ -187,13 +187,13 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 ### Explorers
 - [tonscan.org](https://tonscan.org/)
-- [dton.io](https://dton.io/) - Explorers preferred by devs.
+- [dton.io](https://dton.io/)
 - [tonviewer.com](https://tonviewer.com/)
-- [explorer.tonnft.tools](https://explorer.tonnft.tools/) - Explorers preferred by devs.
+- [explorer.tonnft.tools](https://explorer.tonnft.tools/)
 - [tonlens.com](https://tonlens.com)
 - [TonWhales](https://tonwhales.com/explorer)
 - [3xpl](https://3xpl.com/ton)
-- [explorer.toncoin.org](https://explorer.toncoin.org) - Explorers preferred by devs.
+- [explorer.toncoin.org](https://explorer.toncoin.org)
 - [ton.cx](https://ton.cx)
 
 ### Bridges 
@@ -223,6 +223,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 ## 🌐 Authentication
 - [Ton Connect](https://github.com/ton-connect/) - Standart protocol for communication between wallets and apps.
 - [delab-team/connect](https://github.com/delab-team/connect) - SDK, which combines multiple protocols in one modal.
+
 ---
 
 ## 💵 Funds
@@ -233,11 +234,13 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 ## 🎛 Utilities
 
-- [Tonutils Proxy](https://github.com/xssnick/Tonutils-Proxy) - User-friendly TON Proxy implementation.
-- [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator for The Open Network's standard wallets.
-- [custon](https://github.com/TON-NFT/custon) - User-friendly generator of custom TON wallet addresses written in JS.
-- [TON Grafana](https://tonmon.xyz/) - Blockchain metrics.
-- [TON Notify Bot](https://t.me/TONNotifyBot) - [[Sources]](https://github.com/tonbase/ton-notify-bot) - Instant notifications about transfer coins of the TON address in Telegram.
+This section includes a variety of handy utilities that assist with different tasks within the TON ecosystem, from user-friendly address generation to instant notification services. These tools are meant to enhance your experience while interacting with The Open Network.
+
+- [Tonutils Proxy](https://github.com/xssnick/Tonutils-Proxy) - This tool provides a user-friendly implementation of the TON Proxy. It simplifies the tasks of managing and interacting with the TON network.
+- [vaniton](https://github.com/AntonMeep/vaniton) - A vanity address generator designed specifically for The Open Network's standard wallets. This tool allows users to create unique, personalized addresses for their wallets.
+- [custon](https://github.com/TON-NFT/custon) - A user-friendly generator of custom TON wallet addresses. This utility is written in JavaScript, providing easy access and manipulation for developers.
+- [TON Grafana](https://tonmon.xyz/) - A powerful tool that provides blockchain metrics for TON. It offers visualizations and analytics for tracking and managing blockchain data.
+- [TON Notify Bot](https://t.me/TONNotifyBot) - [[Sources]](https://github.com/tonbase/ton-notify-bot) - This Telegram bot provides instant notifications about coin transfers of the TON addresses. Stay informed about your transactions in real-time with this handy tool.
 
 ## 👨‍🎨 UX/UI
 - [TON Design System](https://github.com/designervoid/ton-design-system) 
@@ -245,8 +248,9 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 
 ## ✏️ Contribute
-
+> [Contributing to Awesome-TON](contributing.md)
 1. Decide on the changes you want to make in the awesome-ton list.
 2. Press `.` on the `awesome-ton` page to open the online editor (VSCode).
 3. Make changes, describe them, and submit a commit as a Pull Request.
 4. Congratulations, you're now a contributor to TON! 😎
+
