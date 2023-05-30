@@ -76,7 +76,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
     - [Step by step guide for working with your first TON wallet](https://ton-community.github.io/tutorials/01-wallet/)
     - [Step by step guide for writing your first smart contract](https://ton-community.github.io/tutorials/02-contract/)
     - [Step by step guide for building your first web client](https://ton-community.github.io/tutorials/03-client/)
-    - [TON Hello World part 4: Step by step guide for testing your first smart contract](https://ton-community.github.io/tutorials/04-testing/)
+    - [Step by step guide for testing your first smart contract](https://ton-community.github.io/tutorials/04-testing/)
   - [Func Journey](https://blog.ton.org/func-journey)
   - FunC @romanovichim lessons
     - [TonFunClessons_Eng](https://github.com/romanovichim/TonFunClessons_Eng)
@@ -129,7 +129,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [dton.io/graphql](https://dton.io/graphql)
   - [tonapi.io](https://tonapi.io/)
   - [anton.tools](https://anton.tools/)
-
 - Telegram Web Apps (TWAs)
   - [Telegram WebApps Documentation](https://core.telegram.org/bots/webapps) - Full description on Telegram website.
   - [docs.twa.dev](https://docs.twa.dev/) - User-friendly docs from community.
@@ -229,7 +228,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 ## 💵 Funds
 - [Toncoin Fund](https://www.toncoin.fund/)
-- [TAV Fund](https://tav-incubation.com/)
 - [Tonstarter](https://tonstarter.com/hi/)
 
 
