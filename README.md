@@ -1,9 +1,11 @@
 <!-- omit from toc --> 
-# Awesome TON (The Open Network) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome TON (The Open Network) 
 
-[<img src="logo/ton_symbol.svg" align="right" width="100">](https://electronjs.org)
+[<img src="logo/ton_symbol.svg" align="right" width="100">](https://ton.org)
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Twitter](https://img.shields.io/twitter/follow/ton_blockchain?style=social)](https://twitter.com/ton_blockchain)
+[![Telegram](https://img.shields.io/badge/telegram-TON%20Dev%20Chat-blue?logo=telegram)](https://t.me/tondev_eng)
 
 Welcome to Awesome TON - a carefully curated compendium of standout libraries, tools, services, protocols, and smart contracts associated with the TON ecosystem. 
 
