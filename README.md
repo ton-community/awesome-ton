@@ -76,7 +76,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
     - [Step by step guide for working with your first TON wallet](https://ton-community.github.io/tutorials/01-wallet/)
     - [Step by step guide for writing your first smart contract](https://ton-community.github.io/tutorials/02-contract/)
     - [Step by step guide for building your first web client](https://ton-community.github.io/tutorials/03-client/)
-    - [TON Hello World part 4: Step by step guide for testing your first smart contract](https://ton-community.github.io/tutorials/04-testing/)
+    - [Step by step guide for testing your first smart contract](https://ton-community.github.io/tutorials/04-testing/)
   - [Func Journey](https://blog.ton.org/func-journey)
   - FunC @romanovichim lessons
     - [TonFunClessons_Eng](https://github.com/romanovichim/TonFunClessons_Eng)
