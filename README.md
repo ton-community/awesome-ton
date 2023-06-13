@@ -15,11 +15,11 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 - [🏛️ Official Resources](#️-official-resources)
 - [🎓 Education](#-education)
-  - [Basic Theory](#-basic-theory)
+  - [Basic Theory](#basic-theory)
   - [YouTube Educational Videos](#youtube-educational-videos)
-  - [Community Tutorials](#-community-tutorials)
-  - [Smart Contract Examples](#-smart-contract-examples)
-  - [Guidelines](#-guidelines)
+  - [Community Tutorials](#community-tutorials)
+  - [Smart Contract Examples](#smart-contract-examples)
+  - [Guidelines](#guidelines)
 - [🧑‍💻 Get coding](#-get-coding)
   - [Dev Tools](#dev-tools)
   - [Libraries](#libraries)
@@ -49,7 +49,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 ---
 
 ## 🎓 Education
-### 📔 Basic Theory
+### Basic Theory
 - [The Open Network](https://docs.ton.org/learn/introduction)
 - [What is blockchain? What is a smart contract? What is gas?](https://blog.ton.org/what-is-blockchain)
 - [Smart Contract Addresses](https://docs.ton.org/learn/overviews/addresses)
@@ -69,7 +69,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
     - [TON Development with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCYG-hR4N5FRTKUkfM8POgh)
 - [Ton Dev Moscow channel](https://www.youtube.com/@tondevmoscow/featured)
 
-### 📚 Community Tutorials
+### Community Tutorials
 - Smart Contracts and dApps
   - [Get Started with TON](https://docs.ton.org/develop/onboarding-challenge) 
   - Ton-Community Hello World
@@ -98,10 +98,10 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [Telegram bot integration](https://docs.ton.org/develop/dapps/ton-connect/tg-bot-integration)
   - [Sending messages](https://docs.ton.org/develop/dapps/ton-connect/transactions)
 
-### 🧱 Smart Contract Examples
+### Smart Contract Examples
 - [Smart Contract Examples](https://docs.ton.org/develop/smart-contracts/examples)
 
-### 📖 Guidelines
+### Guidelines
 - Smart Contract Development
   - [Overview](https://docs.ton.org/develop/smart-contracts/guidelines)
 - Develop Apps
