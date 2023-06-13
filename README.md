@@ -227,8 +227,8 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 ## 🌐 Authentication
 - [Ton Connect](https://github.com/ton-connect/) - Standart protocol for communication between wallets and apps.
 - [delab-team/connect](https://github.com/delab-team/connect) - SDK, which combines multiple protocols in one modal.
-- [@tonconnect/sdk](https://www.npmjs.com/package/@tonconnect/sdk) - JS SDK for TON Connect 2.0
-- [pytonconnect](https://pypi.org/project/pytonconnect/) - Python SDK for TON Connect 2.0 
+- [@tonconnect/sdk](https://www.npmjs.com/package/@tonconnect/sdk) - JS SDK for TON Connect 2.0.
+- [pytonconnect](https://pypi.org/project/pytonconnect/) - Python SDK for TON Connect 2.0.
 
 ---
 
@@ -245,7 +245,7 @@ This section includes a variety of handy utilities that assist with different ta
 - [vaniton](https://github.com/AntonMeep/vaniton) - A vanity address generator designed specifically for The Open Network's standard wallets. This tool allows users to create unique, personalized addresses for their wallets.
 - [custon](https://github.com/TON-NFT/custon) - A user-friendly generator of custom TON wallet addresses. This utility is written in JavaScript, providing easy access and manipulation for developers.
 - [TON Grafana](https://tonmon.xyz/) - A powerful tool that provides blockchain metrics for TON. It offers visualizations and analytics for tracking and managing blockchain data.
-- [TON Notify Bot](https://t.me/TONNotifyBot) [[Sources]](https://github.com/tonbase/ton-notify-bot) - This Telegram bot provides instant notifications about coin transfers of the TON addresses. Stay informed about your transactions in real-time with this handy tool.
+- [TON Notify Bot](https://t.me/TONNotifyBot) - This Telegram bot provides instant notifications about coin transfers of the TON addresses. Stay informed about your transactions in real-time with this handy tool.
 - [Blockchain Network Visualizer](https://github.com/qpwedev/blockchain-network-visualizer) - Draft tool for visualizing TON blockchain network, written in Python. It provides a visual representation of the contracts and transfers between them. Contributions are welcome.
 
 ## 👨‍🎨 UX/UI
