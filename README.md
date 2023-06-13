@@ -241,6 +241,7 @@ This section includes a variety of handy utilities that assist with different ta
 - [TON Grafana](https://tonmon.xyz/) - A powerful tool that provides blockchain metrics for TON. It offers visualizations and analytics for tracking and managing blockchain data.
 - [TON Notify Bot](https://t.me/TONNotifyBot) - [[Sources]](https://github.com/tonbase/ton-notify-bot) - This Telegram bot provides instant notifications about coin transfers of the TON addresses. Stay informed about your transactions in real-time with this handy tool.
 - [Blockchain Network Visualizer](https://github.com/qpwedev/blockchain-network-visualizer) - Draft tool for visualizing TON blockchain network, written in Python. It provides a visual representation of the contracts and transfers between them. Contributions are welcome.
+- [Anonymous Numbers Market Analytics](https://github.com/qpwedev/anonymous-numbers-market-analytics) - Telegram bot that disseminates statistical data on the Anonymous Telegram Numbers market from [Fragment.com](https://fragment.com).
 
 ## 👨‍🎨 UX/UI
 - [TON Design System](https://github.com/designervoid/ton-design-system) 
