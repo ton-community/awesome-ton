@@ -15,11 +15,11 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 - [🏛️ Official Resources](#️-official-resources)
 - [🎓 Education](#-education)
-  - [📔 Basic Theory](#-basic-theory)
+  - [Basic Theory](#basic-theory)
   - [YouTube Educational Videos](#youtube-educational-videos)
-  - [📚 Community Tutorials](#-community-tutorials)
-  - [🧱 Smart Contract Examples](#-smart-contract-examples)
-  - [📖 Guidelines](#-guidelines)
+  - [Community Tutorials](#community-tutorials)
+  - [Smart Contract Examples](#smart-contract-examples)
+  - [Guidelines](#guidelines)
 - [🧑‍💻 Get coding](#-get-coding)
   - [Dev Tools](#dev-tools)
   - [Libraries](#libraries)
@@ -43,13 +43,13 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 ## 🏛️ Official Resources
 - [Documentation](https://docs.ton.org/)
 - [Community blog](https://blog.ton.org/)
-- [Hackathon, contests](https://ton.org/events)
+- [Hackathons, contests](https://ton.org/events)
 - [List of actual vacancies](https://jobs.ton.org/)
 
 ---
 
 ## 🎓 Education
-### 📔 Basic Theory
+### Basic Theory
 - [The Open Network](https://docs.ton.org/learn/introduction)
 - [What is blockchain? What is a smart contract? What is gas?](https://blog.ton.org/what-is-blockchain)
 - [Smart Contract Addresses](https://docs.ton.org/learn/overviews/addresses)
@@ -69,7 +69,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
     - [TON Development with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCYG-hR4N5FRTKUkfM8POgh)
 - [Ton Dev Moscow channel](https://www.youtube.com/@tondevmoscow/featured)
 
-### 📚 Community Tutorials
+### Community Tutorials
 - Smart Contracts and dApps
   - [Get Started with TON](https://docs.ton.org/develop/onboarding-challenge) 
   - Ton-Community Hello World
@@ -98,10 +98,10 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [Telegram bot integration](https://docs.ton.org/develop/dapps/ton-connect/tg-bot-integration)
   - [Sending messages](https://docs.ton.org/develop/dapps/ton-connect/transactions)
 
-### 🧱 Smart Contract Examples
+### Smart Contract Examples
 - [Smart Contract Examples](https://docs.ton.org/develop/smart-contracts/examples)
 
-### 📖 Guidelines
+### Guidelines
 - Smart Contract Development
   - [Overview](https://docs.ton.org/develop/smart-contracts/guidelines)
 - Develop Apps
@@ -124,6 +124,10 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [TON Dev Wallet](https://github.com/TonDevWallet/TonDevWallet) - Wallet for developers.
 - [Rift](https://github.com/sky-ring/rift) - Python framework for building smart contracts.
 - [Tact](https://tact-lang.org/) - High-level language for TON smart-contracts.
+- IDE Plugins 
+  - [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode)
+  - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/18541-ton-development)
+  - [Sublime Text plugin](https://github.com/savva425/func_plugin_sublimetext3)
 - API
   - [toncenter.com](https://toncenter.com/) - Fast and reliable HTTP API for The Open Network.
   - [dton.io/graphql](https://dton.io/graphql)
@@ -175,8 +179,8 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 ## 🗂 Projects
 ### Decentralized exchanges
 - [dedust.io](https://dedust.io/)
-- [STON.fi](http://app.ston.fi)
-- [DeDust](http://dedust.io/dex/swap)
+- [STON.fi](https://app.ston.fi)
+- [DeDust](https://dedust.io/swap)
 - [Megaton Finance](https://megaton.fi)
 
 ### Marketplaces
@@ -223,6 +227,8 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 ## 🌐 Authentication
 - [Ton Connect](https://github.com/ton-connect/) - Standart protocol for communication between wallets and apps.
 - [delab-team/connect](https://github.com/delab-team/connect) - SDK, which combines multiple protocols in one modal.
+- [@tonconnect/sdk](https://www.npmjs.com/package/@tonconnect/sdk) - JS SDK for TON Connect 2.0.
+- [pytonconnect](https://pypi.org/project/pytonconnect/) - Python SDK for TON Connect 2.0.
 
 ---
 
@@ -239,7 +245,7 @@ This section includes a variety of handy utilities that assist with different ta
 - [vaniton](https://github.com/AntonMeep/vaniton) - A vanity address generator designed specifically for The Open Network's standard wallets. This tool allows users to create unique, personalized addresses for their wallets.
 - [custon](https://github.com/TON-NFT/custon) - A user-friendly generator of custom TON wallet addresses. This utility is written in JavaScript, providing easy access and manipulation for developers.
 - [TON Grafana](https://tonmon.xyz/) - A powerful tool that provides blockchain metrics for TON. It offers visualizations and analytics for tracking and managing blockchain data.
-- [TON Notify Bot](https://t.me/TONNotifyBot) - [[Sources]](https://github.com/tonbase/ton-notify-bot) - This Telegram bot provides instant notifications about coin transfers of the TON addresses. Stay informed about your transactions in real-time with this handy tool.
+- [TON Notify Bot](https://t.me/TONNotifyBot) - This Telegram bot provides instant notifications about coin transfers of the TON addresses. Stay informed about your transactions in real-time with this handy tool.
 - [Blockchain Network Visualizer](https://github.com/qpwedev/blockchain-network-visualizer) - Draft tool for visualizing TON blockchain network, written in Python. It provides a visual representation of the contracts and transfers between them. Contributions are welcome.
 
 ## 👨‍🎨 UX/UI
