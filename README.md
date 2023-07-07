@@ -250,7 +250,8 @@ This section includes a variety of handy utilities that assist with different ta
 - [Anonymous Numbers Market Analytics](https://github.com/qpwedev/anonymous-numbers-market-analytics) - Telegram bot that disseminates statistical data on the Anonymous Telegram Numbers from Fragment market.
 
 ## 👨‍🎨 UX/UI
-- [TON Design System](https://github.com/designervoid/ton-design-system) - Tailwind based Typescript package for creating frontend components which provides [TON Brand Assets](https://ton.org/brand-assets) as Atom CSS with custom theme
+- [TON Design System](https://github.com/designervoid/ton-design-system) 
+- Design system which provides [TON Brand Assets](https://ton.org/brand-assets) as Atom CSS.
 
 
 ## ✏️ Contribute
