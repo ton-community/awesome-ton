@@ -153,6 +153,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [xssnick/tonutils-go](https://github.com/xssnick/tonutils-go)
   - [tonkeeper/tongo](https://github.com/tonkeeper/tongo)
   - [Golang TonLib wrapper](https://github.com/ton-blockchain/tonlib-go)
+- [Dart/Flutter SDK](https://github.com/novusnota/tonutils-dart) - Comprehensive Dart/Flutter SDK for TON Blockchain.
 - [Rust SDK](https://github.com/ston-fi/tonlib-rs)
 - [C++ TonLib](https://github.com/ton-blockchain/ton/tree/master/example/cpp)
 - [Java TonLib wrapper (JNI)](https://github.com/ton-blockchain/tonlib-java)
