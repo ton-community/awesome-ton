@@ -237,7 +237,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [delab-team/connect](https://github.com/delab-team/connect) - SDK, which combines multiple protocols in one modal.
 - [@tonconnect/sdk](https://www.npmjs.com/package/@tonconnect/sdk) - JS SDK for TON Connect 2.0.
 - [pytonconnect](https://pypi.org/project/pytonconnect/) - Python SDK for TON Connect 2.0.
-- [darttonconnect](https://github.com/romanovichim/dartTonconnect) - Dart SDK for TON Connect 2.0
+- [darttonconnect](https://github.com/romanovichim/dartTonconnect) - Dart SDK for TON Connect 2.0.
 
 ---
 
