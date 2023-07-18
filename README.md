@@ -160,6 +160,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [labraburn/SwiftyTON](https://github.com/labraburn/SwiftyTON) - Native Swift wrapper for tonlib with async/await.
 - [labraburn/node-tonlib](https://github.com/labraburn/node-tonlib) - C++ addon for Node.js to work with tonlibjson.
 - [ton-kotlin](https://github.com/andreypfau/ton-kotlin) - Kotlin SDK for TON blockchain.
+- [TonSdk.NET](https://github.com/continuation-team/TonSdk.NET) - Native C# (.NET, Unity) SDK for TON Blockchain.
 
 
 ### Get help
