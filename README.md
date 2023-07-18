@@ -46,7 +46,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [Hackathons, contests](https://ton.org/events)
 - [List of actual vacancies](https://jobs.ton.org/)
 - [@ton_community in Telegram](https://t.me/toncoin)
-- [@ton_blockchain in Twitter](https://twitter.com/ton_blockchain)
 
 ---
 
