@@ -250,7 +250,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 This section includes a variety of handy utilities that assist with different tasks within the TON ecosystem, from user-friendly address generation to instant notification services. These tools are meant to enhance your experience while interacting with The Open Network.
 
-- [TonStat.com](https://www.tonstat.com/) - Key Metrics of TON Ecosystem
+- [TonStat.com](https://www.tonstat.com/) - Key Metrics of TON Ecosystem.
 - [Tonutils Proxy](https://github.com/xssnick/Tonutils-Proxy) - This tool provides a user-friendly implementation of the TON Proxy. It simplifies the tasks of managing and interacting with the TON network.
 - [vaniton](https://github.com/AntonMeep/vaniton) - A vanity address generator designed specifically for The Open Network's standard wallets. This tool allows users to create unique, personalized addresses for their wallets.
 - [custon](https://github.com/TON-NFT/custon) - A user-friendly generator of custom TON wallet addresses. This utility is written in JavaScript, providing easy access and manipulation for developers.
