@@ -20,11 +20,11 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [Community Tutorials](#community-tutorials)
   - [Smart Contract Examples](#smart-contract-examples)
   - [Guidelines](#guidelines)
+- [🗣 Talks \& Workshops](#-talks--workshops)
 - [🧑‍💻 Get coding](#-get-coding)
   - [Dev Tools](#dev-tools)
   - [Libraries](#libraries)
   - [Get help](#get-help)
-- [🗣 Talks \& Workshops](#-talks--workshops)
 - [🗂 Projects](#-projects)
   - [Decentralized exchanges](#decentralized-exchanges)
   - [Marketplaces](#marketplaces)
@@ -45,6 +45,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [Community blog](https://blog.ton.org/)
 - [Hackathons, contests](https://ton.org/events)
 - [List of actual vacancies](https://jobs.ton.org/)
+- [@ton_community in Telegram](https://t.me/toncoin)
 
 ---
 
@@ -61,13 +62,16 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
     - [FunC & Blueprint](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDjIMAF3XqNI2XGNwdcB3sg)
     - [TON Development with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsB47mqzF4Z9K8k6HYqPv6Px)
     - [TON Development with Python](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDrQUyuHTsKRzxg6XaTPzhh)
+    - [Tact & Blueprint](https://www.youtube.com/@AlefmanVladimirEN-xb4pq/videos)
   - Russian
     - [FunC & Blueprint](https://www.youtube.com/playlist?list=PLyDBPwv9EPsA5vcUM2vzjQOomf264IdUZ)
     - [TON Connect - Integration in TON Ecosystem](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCJ226xS5_dKmXXxWx1CKz_)
     - [TON Development with Python](https://www.youtube.com/playlist?list=PLyDBPwv9EPsC-7xbn8b8noZh9a1Xkg42W)
     - [TON Development with GO](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCV-GifFVIQ1o3t35j1nj-u)
     - [TON Development with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCYG-hR4N5FRTKUkfM8POgh)
+- [Mark Okhman](https://www.youtube.com/@markokhman) 
 - [Ton Dev Moscow channel](https://www.youtube.com/@tondevmoscow/featured)
+
 
 ### Community Tutorials
 - Smart Contracts and dApps
@@ -113,6 +117,16 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [TON Connect for Developers](https://docs.ton.org/develop/dapps/ton-connect/developers)
   - [TON Wallet Guidelines](https://docs.ton.org/develop/dapps/ton-connect/wallet-guidelines)
   - [TON Connect Workflow](https://docs.ton.org/develop/dapps/ton-connect/workflow)
+
+---
+
+
+
+## 🗣 Talks & Workshops
+
+- [TON & Company](https://www.youtube.com/@ton-company/featured) - By [@markokhman](https://t.me/markokhman)
+- [TON - The Open Network](https://www.youtube.com/@the_open_network/featured)
+- [DoraHacks workshops](https://www.youtube.com/playlist?list=PLpkpEL9gYGez8hCtzMtOabQPX9bgYLZPN)
 
 ---
 
@@ -170,13 +184,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 ---
 
-## 🗣 Talks & Workshops
-
-- [Community platform for talks](https://join.toncompany.org/home) - By [Ton&Co](https://t.me/tonandcompany)
-- [DoraHacks workshops](https://www.youtube.com/playlist?list=PLpkpEL9gYGez8hCtzMtOabQPX9bgYLZPN)
-
----
-
 ## 🗂 Projects
 ### Decentralized exchanges
 - [dedust.io](https://dedust.io/)
@@ -220,6 +227,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [Ton iOS](https://apps.apple.com/by/app/toncoin-wallet/id1560210939) - Official iOS wallet.
 
 ### Staking
+- [TON Liquid Staking protocol](https://ton-ls-protocol.gitbook.io/ton-liquid-staking-protocol/) - Design guidelines of the TON Liquid Staking for developers.
 - [TonWhales staking](https://tonwhales.com/staking)
 - [The list of the TON nominator pools](https://tonvalidators.org/)
 
@@ -230,6 +238,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [delab-team/connect](https://github.com/delab-team/connect) - SDK, which combines multiple protocols in one modal.
 - [@tonconnect/sdk](https://www.npmjs.com/package/@tonconnect/sdk) - JS SDK for TON Connect 2.0.
 - [pytonconnect](https://pypi.org/project/pytonconnect/) - Python SDK for TON Connect 2.0.
+- [darttonconnect](https://github.com/romanovichim/dartTonconnect) - Dart SDK for TON Connect 2.0.
 
 ---
 
@@ -242,6 +251,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 This section includes a variety of handy utilities that assist with different tasks within the TON ecosystem, from user-friendly address generation to instant notification services. These tools are meant to enhance your experience while interacting with The Open Network.
 
+- [TonStat.com](https://www.tonstat.com/) - Key Metrics of TON Ecosystem.
 - [Tonutils Proxy](https://github.com/xssnick/Tonutils-Proxy) - This tool provides a user-friendly implementation of the TON Proxy. It simplifies the tasks of managing and interacting with the TON network.
 - [vaniton](https://github.com/AntonMeep/vaniton) - A vanity address generator designed specifically for The Open Network's standard wallets. This tool allows users to create unique, personalized addresses for their wallets.
 - [custon](https://github.com/TON-NFT/custon) - A user-friendly generator of custom TON wallet addresses. This utility is written in JavaScript, providing easy access and manipulation for developers.
