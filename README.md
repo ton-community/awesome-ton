@@ -157,8 +157,10 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 ### Libraries
 - Python
-  - [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk)
-  - [toncenter/pytonlib](https://github.com/toncenter/pytonlib)
+  - [yungwine/pytoniq](https://github.com/yungwine/pytoniq) - Python SDK with native LiteClient, tlb wrappers and cells.
+  - [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk) - Library with cells implementation and popular contract wrappers.
+  - [toncenter/pytonlib](https://github.com/toncenter/pytonlib) - Tonlib wrapper.
+  - [yungwine/TonTools](https://github.com/yungwine/TonTools) - High-level library with http/adnl interaction with liteservers.
 - JavaScript
   - [ton-core/ton](https://github.com/ton-core/ton) - Cross-platform client for TON blockchain, by ton-core.
   - [toncenter/tonweb](https://github.com/toncenter/tonweb) - Cross-platform client for TON blockchain, by TonCenter.
