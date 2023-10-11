@@ -55,6 +55,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [What is blockchain? What is a smart contract? What is gas?](https://blog.ton.org/what-is-blockchain)
 - [Smart Contract Addresses](https://docs.ton.org/learn/overviews/addresses)
 - [Six unique aspects of TON Blockchain that will surprise Solidity developers](https://blog.ton.org/six-unique-aspects-of-ton-blockchain-that-will-surprise-solidity-developers)
+- [TON Sites, TON WWW, TON Proxy](https://blog.ton.org/ton-sites)
 
 ### YouTube Educational Videos
 - [Ton Dev Study channel](https://www.youtube.com/@WikiMar/playlists)
