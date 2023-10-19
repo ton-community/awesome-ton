@@ -138,7 +138,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [TON Dev Wallet](https://github.com/TonDevWallet/TonDevWallet) - Wallet for developers.
 - [Rift](https://github.com/sky-ring/rift) - Python framework for building smart contracts.
 - [Tact](https://tact-lang.org/) - High-level language for TON smart-contracts.
-- [ton-k8s](https://github.com/disintar/ton-k8s) - Self-hosted TON network with Docker images for compose and kubernetes
+- [ton-k8s](https://github.com/disintar/ton-k8s) - Self-hosted TON network with Docker images for compose and kubernetes.
 - IDE Plugins 
   - [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode)
   - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/18541-ton-development)
