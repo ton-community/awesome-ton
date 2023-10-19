@@ -139,6 +139,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [TON Dev Wallet](https://github.com/TonDevWallet/TonDevWallet) - Wallet for developers.
 - [Rift](https://github.com/sky-ring/rift) - Python framework for building smart contracts.
 - [Tact](https://tact-lang.org/) - High-level language for TON smart-contracts.
+- [ton-k8s](https://github.com/disintar/ton-k8s) - Self-hosted TON network with Docker images for compose and kubernetes.
 - IDE Plugins 
   - [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode)
   - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/18541-ton-development)
@@ -158,6 +159,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 ### Libraries
 - Python
+  - [disintar/tonpy](https://github.com/disintar/tonpy) - Python SDK with full TLB support, Emulator and TVM.
   - [yungwine/pytoniq](https://github.com/yungwine/pytoniq) - Python SDK with native LiteClient, tlb wrappers and cells.
   - [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk) - Library with cells implementation and popular contract wrappers.
   - [toncenter/pytonlib](https://github.com/toncenter/pytonlib) - Tonlib wrapper.
