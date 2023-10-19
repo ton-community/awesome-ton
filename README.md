@@ -158,7 +158,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 ### Libraries
 - Python
-  - [disintar/tonpy](https://github.com/disintar/tonpy) - Python SDK with full TLB support, Emulator and TVM
+  - [disintar/tonpy](https://github.com/disintar/tonpy) - Python SDK with full TLB support, Emulator and TVM.
   - [yungwine/pytoniq](https://github.com/yungwine/pytoniq) - Python SDK with native LiteClient, tlb wrappers and cells.
   - [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk) - Library with cells implementation and popular contract wrappers.
   - [toncenter/pytonlib](https://github.com/toncenter/pytonlib) - Tonlib wrapper.
