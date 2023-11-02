@@ -181,6 +181,13 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [ton-kotlin](https://github.com/andreypfau/ton-kotlin) - Kotlin SDK for TON blockchain.
 - [TonSdk.NET](https://github.com/continuation-team/TonSdk.NET) - Native C# (.NET, Unity) SDK for TON Blockchain.
 
+### Languages
+- Tact
+  - [Tact main repository](https://github.com/tact-lang)
+  - [Official tact resources](https://tact-lang.org/)
+  - [Tact by example](https://tact-by-example.org/)
+  - [Tact awesome curated list](https://github.com/tact-lang/awesome-tact)
+  - [Tact youtube video course RU](https://youtube.com/playlist?list=PLyDBPwv9EPsAJpR7R0cC4kgo7BjiMmUy7&feature=shared)
 
 ### Get help
 - [TON Overflow](https://answers.ton.org)
