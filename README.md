@@ -142,7 +142,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [ton-k8s](https://github.com/disintar/ton-k8s) - Self-hosted TON network with Docker images for compose and kubernetes.
 - IDE Plugins 
   - [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode)
-  - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/18541-ton-development)
+  - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/23382-ton)
   - [Sublime Text plugin](https://github.com/savva425/func_plugin_sublimetext3)
 - API
   - [toncenter.com](https://toncenter.com/) - Fast and reliable HTTP API for The Open Network.
