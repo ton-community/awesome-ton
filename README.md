@@ -116,8 +116,8 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [TON Metadata Parsing](https://docs.ton.org/develop/dapps/asset-processing/metadata)
 - TON Connect (Integration)
   - [TON Connect for Developers](https://docs.ton.org/develop/dapps/ton-connect/developers)
-  - [TON Wallet Guidelines](https://docs.ton.org/develop/dapps/ton-connect/wallet-guidelines)
-  - [TON Connect Workflow](https://docs.ton.org/develop/dapps/ton-connect/workflow)
+  - [TON Wallet Guidelines](https://docs.ton.org/develop/dapps/ton-connect/protocol/wallet-guidelines)
+  - [TON Connect Workflow](https://docs.ton.org/develop/dapps/ton-connect/protocol/workflow)
 
 ---
 
