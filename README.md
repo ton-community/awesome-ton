@@ -227,7 +227,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [TON Wallet](https://wallet.ton.org/) - Official Web Wallet.
 - [ton-cli](https://github.com/ex3ndr/ton-cli) - CLI wallet.
 - [MyTonWallet](https://mytonwallet.io) - Web wallet and browser extension for TON.
-- [Juston](https://juston.io) - iOS wallet.
 - [Coin98 Wallet](https://wallet.coin98.com) - A mobile and browser extension wallet with multi-chain support.
 - [openmask.app](https://www.openmask.app/) - MetaMask analog for The Open Network.
 - [Ton iOS](https://apps.apple.com/by/app/toncoin-wallet/id1560210939) - Official iOS wallet.
