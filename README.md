@@ -151,7 +151,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [anton.tools](https://anton.tools/)
 - Telegram Web Apps (TWAs)
   - [Telegram WebApps Documentation](https://core.telegram.org/bots/webapps) - Full description on Telegram website.
-  - [docs.twa.dev](https://docs.twa.dev/) - User-friendly docs from community.
+  - [docs.twa.dev](https://docs.telegram-mini-apps.com/) - User-friendly docs from community.
   - [ton-community/twa-template](https://github.com/ton-community/twa-template) - Template for a new TWA interacting with the TON.
   - [twa-dev/boilerplate](https://github.com/twa-dev/Boilerplate) - Another boilerplate for a new TWA.
   - [twa-dev/sdk](https://github.com/twa-dev/sdk) - npm package for TWA SDK.
