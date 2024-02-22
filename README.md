@@ -75,7 +75,8 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 
 ### Community Tutorials
-- Smart Contracts and dApps
+- Smart Contracts
+  - [TonSpeedRun](https://tonspeedrun.com/) offers 6 interactive quests designed to help you master TON smart contract development like a pro.
   - [Get Started with TON](https://docs.ton.org/develop/onboarding-challenge) 
   - Ton-Community Hello World
     - [Step by step guide for working with your first TON wallet](https://ton-community.github.io/tutorials/01-wallet/)
@@ -191,50 +192,8 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 ---
 
 ## 🗂 Projects
-### Decentralized exchanges
-- [dedust.io](https://dedust.io/)
-- [STON.fi](https://app.ston.fi)
-- [DeDust](https://dedust.io/swap)
-- [Megaton Finance](https://megaton.fi)
 
-### Marketplaces
-- [Fragment](https://fragment.com/)
-- [GetGems](https://getgems.io/)
-- [ton.diamonds](https://ton.diamonds/)
-- [disintar.io](https://disintar.io/)
-
-### Explorers
-- [tonscan.org](https://tonscan.org/)
-- [dton.io](https://dton.io/)
-- [tonviewer.com](https://tonviewer.com/)
-- [explorer.tonnft.tools](https://explorer.tonnft.tools/)
-- [tonlens.com](https://tonlens.com)
-- [TonWhales](https://tonwhales.com/explorer)
-- [3xpl](https://3xpl.com/ton)
-- [explorer.toncoin.org](https://explorer.toncoin.org)
-- [ton.cx](https://ton.cx)
-
-### Bridges 
-- [bridge.ton.org](https://bridge.ton.org/)
-- [Orbit Bridge](https://bridge.orbitchain.io/)
-- [tonana.org](https://app.tonana.org/)
-
-### Wallets 
-- [Tonkeeper](https://tonkeeper.com)
-- [TonHub](https://tonhub.com)
-- [@wallet](https://t.me/wallet) - TON wallet right in the Telegram.
-- [Ton Android](https://play.google.com/store/apps/details?id=ton.coin.wallet) - Official Android wallet.
-- [TON Wallet](https://wallet.ton.org/) - Official Web Wallet.
-- [ton-cli](https://github.com/ex3ndr/ton-cli) - CLI wallet.
-- [MyTonWallet](https://mytonwallet.io) - Web wallet and browser extension for TON.
-- [Coin98 Wallet](https://wallet.coin98.com) - A mobile and browser extension wallet with multi-chain support.
-- [openmask.app](https://www.openmask.app/) - MetaMask analog for The Open Network.
-- [Ton iOS](https://apps.apple.com/by/app/toncoin-wallet/id1560210939) - Official iOS wallet.
-
-### Staking
-- [TON Liquid Staking protocol](https://ton-ls-protocol.gitbook.io/ton-liquid-staking-protocol/) - Design guidelines of the TON Liquid Staking for developers.
-- [TonWhales staking](https://tonwhales.com/staking)
-- [The list of the TON nominator pools](https://tonvalidators.org/)
+Moved to [ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-map).
 
 ---
 
@@ -246,10 +205,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [darttonconnect](https://github.com/romanovichim/dartTonconnect) - Dart SDK for TON Connect 2.0.
 
 ---
-
-## 💵 Funds
-- [Toncoin Fund](https://www.toncoin.fund/)
-- [Tonstarter](https://tonstarter.com/hi/)
 
 
 ## 🎛 Utilities
