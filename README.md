@@ -76,7 +76,13 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 ### Community Tutorials
 - Smart Contracts
-  - [TonSpeedRun](https://tonspeedrun.com/) offers 6 interactive quests designed to help you master TON smart contract development like a pro.
+  - [tonspeedrun.com](https://tonspeedrun.com/)
+    - [🚩 Challenge 1: Simple NFT Deploy](https://github.com/romanovichim/TONQuest1)
+    - [🚩 Challenge 2: Chatbot Contract](https://github.com/romanovichim/TONQuest2)
+    - [🚩 Challenge 3: Jetton Vending Machine](https://github.com/romanovichim/TONQuest3)
+    - [🚩 Challenge 4: Lottery/Raffle](https://github.com/romanovichim/TONQuest4)
+    - [🚩 Challenge 5: Create UI to interact with the contract in 5 minutes](https://github.com/romanovichim/TONQuest5)
+    - [🚩 Challenge 6: Analyzing NFT sales on the Getgems marketplace](https://github.com/romanovichim/TONQuest6)
   - [Get Started with TON](https://docs.ton.org/develop/onboarding-challenge) 
   - Ton-Community Hello World
     - [Step by step guide for working with your first TON wallet](https://ton-community.github.io/tutorials/01-wallet/)
