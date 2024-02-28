@@ -3,8 +3,9 @@
 
 [<img src="logo/ton_symbol.svg" align="right" width="100">](https://ton.org)
 
-[![Twitter](https://img.shields.io/twitter/follow/ton_blockchain?style=social)](https://twitter.com/ton_blockchain)
-[![Telegram](https://img.shields.io/badge/telegram-TON%20Dev%20Chat-blue?logo=telegram)](https://tondev_eng.t.me)
+[![Ton Research](https://img.shields.io/badge/TON%20Research-0098EA?style=flat&logo=discourse&label=Forum&labelColor=gray)](https://tonresear.ch)
+[![Telegram Foundation Group](https://img.shields.io/badge/TON%20Foundation-0098EA?logo=telegram&logoColor=white&style=flat)](https://t.me/tonblockchain)
+[![Twitter Group](https://img.shields.io/twitter/follow/ton_blockchain)](https://twitter.com/ton_blockchain)
 
 Welcome to Awesome TON - a carefully curated compendium of standout libraries, tools, services, protocols, and smart contracts associated with the TON ecosystem. 
 
