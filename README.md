@@ -176,6 +176,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [ton-core/ton](https://github.com/ton-core/ton) - Cross-platform client for TON blockchain, by ton-core.
   - [toncenter/tonweb](https://github.com/toncenter/tonweb) - Cross-platform client for TON blockchain, by TonCenter.
   - [orbs-network/ton-access](https://github.com/orbs-network/ton-access) - Unthrottled anonymous RPC access to TON blockchain.
+  - [foton](https://github.com/VanishMax/foton) – A toolkit for creating TON dApps: connect to wallets, send transactions, deploy and call smart contracts.
 - Go
   - [xssnick/tonutils-go](https://github.com/xssnick/tonutils-go)
   - [tonkeeper/tongo](https://github.com/tonkeeper/tongo)
