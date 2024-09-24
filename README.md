@@ -118,7 +118,8 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [TON Connect for Developers](https://docs.ton.org/develop/dapps/ton-connect/developers)
   - [TON Wallet Guidelines](https://docs.ton.org/develop/dapps/ton-connect/protocol/wallet-guidelines)
   - [TON Connect Workflow](https://docs.ton.org/develop/dapps/ton-connect/protocol/workflow)
-
+- API references
+  - [Chainstack TON API refence](https://docs.chainstack.com/reference/getting-started-ton) — interactive API reference for v2 and v3 with working examples.
 ---
 
 ## 🗣 Talks & Workshops
@@ -134,6 +135,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 ### Dev Tools
 - [Blueprint](https://github.com/ton-community/blueprint/) - A development environment for writing, testing, and deploying smart contracts.
 - [Testnet Faucet](https://t.me/testgiver_ton_bot) - Bot for getting testnet TON.
+- [Chainstack TON faucet](https://faucet.chainstack.com/ton-testnet-faucet) — good for daily TON refills.
 - [TON Dev Wallet](https://github.com/TonDevWallet/TonDevWallet) - Wallet for developers.
 - [Rift](https://github.com/sky-ring/rift) - Python framework for building smart contracts.
 - [Tact](https://tact-lang.org/) - High-level language for TON smart-contracts.
@@ -143,6 +145,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/23382-ton)
   - [Sublime Text Plugin](https://github.com/savva425/func_plugin_sublimetext3)
 - API
+  - [Chainstack](https://chainstack.com/build-better-with-ton/) — RPC nodes and indexer in multiple regions with geo and load balancing.
   - [toncenter.com](https://toncenter.com/) - Fast and reliable HTTP API for The Open Network.
   - [dton.io/graphql](https://dton.io/graphql)
   - [tonapi.io](https://tonapi.io/)
