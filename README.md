@@ -227,7 +227,7 @@ This section includes a variety of handy utilities that assist with different ta
 - [Blockchain Network Visualizer](https://github.com/qpwedev/blockchain-network-visualizer) - Draft tool for visualizing TON blockchain network, written in Python, offering visual representation of contracts and transfers.
 - [Anonymous Numbers Market Analytics](https://github.com/qpwedev/anonymous-numbers-market-analytics) - Telegram bot disseminating statistical data on Anonymous Telegram Numbers from Fragment market.
 - [TON Multisender](https://ton.multisender.app/) - TON Multisender App is a tool for multisend of Jettons and TON to multiple addresses simultaneously, specially designed for the TON network
-
+- [TON Bulksender](https://ton.bulksender.app) - TON Bulksender App is a tool that lets you efficiently bulk send TON or Jettons to thousands of recipients in seconds, helping users save time by automatically generating transactions on a TON Connect wallet.
 ---
 
 ## 👨‍🎨 UX/UI
