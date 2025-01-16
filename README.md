@@ -221,17 +221,15 @@ Moved to [ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-ma
 
 ## 🎛 Utilities
 
-This section includes a variety of handy utilities that assist with different tasks within the TON ecosystem, from user-friendly address generation to instant notification services. These tools are meant to enhance your experience while interacting with The Open Network.
-
 - [TonStat.com](https://www.tonstat.com/) - Key Metrics of TON Ecosystem.
-- [Tonutils Proxy](https://github.com/xssnick/Tonutils-Proxy) - User-friendly implementation of the TON Proxy, simplifying tasks of managing and interacting with the TON network.
-- [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator designed for The Open Network's standard wallets, allowing users to create unique, personalized addresses.
-- [custon](https://github.com/TON-NFT/custon) - User-friendly generator of custom TON wallet addresses written in JavaScript.
-- [TON Grafana](https://tonmon.xyz/) - Tool that provides blockchain metrics for TON, offering visualizations and analytics for tracking and managing blockchain data.
-- [TON Notify Bot](https://t.me/TONNotifyBot) - Telegram bot providing instant notifications about coin transfers of TON addresses, keeping you informed about your transactions in real-time.
-- [Blockchain Network Visualizer](https://github.com/qpwedev/blockchain-network-visualizer) - Draft tool for visualizing TON blockchain network, written in Python, offering visual representation of contracts and transfers.
-- [Anonymous Numbers Market Analytics](https://github.com/qpwedev/anonymous-numbers-market-analytics) - Telegram bot disseminating statistical data on Anonymous Telegram Numbers from Fragment market.
-- [TON Multisender](https://ton.multisender.app/) - TON Multisender App is a tool for multisend of Jettons and TON to multiple addresses simultaneously, specially designed for the TON network
+- [Tonutils Proxy](https://github.com/xssnick/Tonutils-Proxy) - User-friendly TON Proxy implementation.
+- [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator for TON standard wallets.
+- [custon](https://github.com/TON-NFT/custon) - Custom TON wallet address generator in JavaScript.
+- [TON Grafana](https://tonmon.xyz/) - Blockchain metrics visualization tool.
+- [TON Notify Bot](https://t.me/TONNotifyBot) - Telegram bot for TON address transaction notifications.
+- [Blockchain Network Visualizer](https://github.com/qpwedev/blockchain-network-visualizer) - Tool for visualizing TON blockchain network.
+- [Anonymous Numbers Market Analytics](https://github.com/qpwedev/anonymous-numbers-market-analytics) - Fragment market Anonymous Numbers statistics bot.
+- [TON Multisender](https://ton.multisender.app/) - Tool for batch sending Jettons and TON to multiple addresses.
 
 ---
 
