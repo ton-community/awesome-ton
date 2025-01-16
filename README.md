@@ -21,7 +21,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [Community Tutorials](#community-tutorials)
   - [Smart Contract Examples](#smart-contract-examples)
   - [Guidelines](#guidelines)
-- [🗣 Talks \& Workshops](#-talks--workshops)
 - [🧑‍💻 Get Coding](#-get-coding)
   - [Dev Tools](#dev-tools)
   - [Libraries](#libraries)
@@ -135,13 +134,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 ---
 
-## 🗣 Talks & Workshops
-
-- [TON - The Open Network](https://www.youtube.com/@the_open_network/featured)
-- [DoraHacks Workshops](https://www.youtube.com/playlist?list=PLpkpEL9gYGez8hCtzMtOabQPX9bgYLZPN)
-
----
-
 ## 🧑‍💻 Get Coding
 
 ### Dev Tools
@@ -215,7 +207,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [TON Разработка](https://t.me/tondev) - Russian developer community.
 
 - Documentation
-  - [TON Documentation](https://docs.ton.org/) - Official technical documentation.
   - [TON Learn](https://docs.ton.org/learn/) - Learning resources and guides.
   - [TON API References](https://docs.ton.org/reference/) - API documentation.
 
