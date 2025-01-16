@@ -77,6 +77,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
     - [🚩 Challenge 5: Create UI to Interact with the Contract in 5 Minutes](https://github.com/romanovichim/TONQuest5)
     - [🚩 Challenge 6: Analyzing NFT Sales on Getgems Marketplace](https://github.com/romanovichim/TONQuest6)
   - [Get Started with TON](https://docs.ton.org/develop/onboarding-challenge)
+  - [How to Build Your First DApp on TON](https://docs.tonxapi.com/reference/build-your-first-dapp)
   - TON Community Hello World
     - [Step-by-Step Guide for Working with Your First TON Wallet](https://ton-community.github.io/tutorials/01-wallet/)
     - [Step-by-Step Guide for Writing Your First Smart Contract](https://ton-community.github.io/tutorials/02-contract/)
@@ -120,6 +121,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [TON Connect Workflow](https://docs.ton.org/develop/dapps/ton-connect/protocol/workflow)
 - API references
   - [Chainstack TON API refence](https://docs.chainstack.com/reference/getting-started-ton) — interactive API reference for v2 and v3 with working examples.
+
 ---
 
 ## 🗣 Talks & Workshops
@@ -135,6 +137,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 ### Dev Tools
 - [Blueprint](https://github.com/ton-community/blueprint/) - A development environment for writing, testing, and deploying smart contracts.
 - [Testnet Faucet](https://t.me/testgiver_ton_bot) - Bot for getting testnet TON.
+- [TONX Testnet Faucet](https://faucet.tonxapi.com/) - Test the TON blockchain without real tokens.
 - [Chainstack TON faucet](https://faucet.chainstack.com/ton-testnet-faucet) — good for daily TON refills.
 - [TON Dev Wallet](https://github.com/TonDevWallet/TonDevWallet) - Wallet for developers.
 - [Rift](https://github.com/sky-ring/rift) - Python framework for building smart contracts.
@@ -145,6 +148,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/23382-ton)
   - [Sublime Text Plugin](https://github.com/savva425/func_plugin_sublimetext3)
 - API
+  - [TONX API](https://www.notion.so/TONX-TONX-API-TONX-Lab-f9e86e5382604c6193a2ef2243b283fc?pvs=21) - The ultimate TON API Platform. Build your dApp in seconds with 99.99% uptime—cheaper, faster, and scalable.
   - [Chainstack](https://chainstack.com/build-better-with-ton/) — RPC nodes and indexer in multiple regions with geo and load balancing.
   - [toncenter.com](https://toncenter.com/) - Fast and reliable HTTP API for The Open Network.
   - [dton.io/graphql](https://dton.io/graphql)
@@ -166,6 +170,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [toncenter/pytonlib](https://github.com/toncenter/pytonlib) - Tonlib wrapper.
   - [yungwine/TonTools](https://github.com/yungwine/TonTools) - High-level library with HTTP/ADNL interaction with liteservers.
 - JavaScript
+  - [TONX.JS](https://github.com/frigatebird-studio/TONX.js) - This repository contains the JS integration and adapters for TONX API.
   - [ton-core/ton](https://github.com/ton-core/ton) - Cross-platform client for TON blockchain, by ton-core.
   - [toncenter/tonweb](https://github.com/toncenter/tonweb) - Cross-platform client for TON blockchain, by TonCenter.
   - [orbs-network/ton-access](https://github.com/orbs-network/ton-access) - Unthrottled anonymous RPC access to TON blockchain.
