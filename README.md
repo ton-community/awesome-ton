@@ -238,6 +238,7 @@ Moved to [ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-ma
 - [Blockchain Network Visualizer](https://github.com/qpwedev/blockchain-network-visualizer) - Tool for visualizing TON blockchain network.
 - [Anonymous Numbers Market Analytics](https://github.com/qpwedev/anonymous-numbers-market-analytics) - Fragment market Anonymous Numbers statistics bot.
 - [TON Multisender](https://ton.multisender.app/) - Tool for batch sending Jettons and TON to multiple addresses.
+- [TON Bulksender](https://ton.bulksender.app) - TON Bulksender App is a tool that lets you efficiently bulk send TON or Jettons to thousands of recipients in seconds, helping users save time by automatically generating transactions on a TON web3 wallet.
 
 ---
 
