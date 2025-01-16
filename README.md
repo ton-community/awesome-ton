@@ -163,38 +163,31 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [twa-dev/Mark42](https://github.com/twa-dev/Mark42) - Mark42 is a simple lightweight tree-shakable UI library for TWA.
 
 ### Libraries
+- JavaScript/TypeScript
+  - [TONX.JS](https://github.com/frigatebird-studio/TONX.js) - JS integration for TONX API.
+  - [ton-core/ton](https://github.com/ton-core/ton) - Cross-platform client by ton-core.
+  - [toncenter/tonweb](https://github.com/toncenter/tonweb) - Cross-platform client by TonCenter.
+  - [orbs-network/ton-access](https://github.com/orbs-network/ton-access) - Unthrottled RPC access.
+  - [foton](https://github.com/VanishMax/foton) - Toolkit for TON dApps development.
+
 - Python
-  - [disintar/tonpy](https://github.com/disintar/tonpy) - Python SDK with full TLB support, Emulator, and TVM.
-  - [yungwine/pytoniq](https://github.com/yungwine/pytoniq) - Python SDK with native LiteClient, TLB wrappers, and cells.
-  - [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk) - Library with cells implementation and popular contract wrappers.
+  - [disintar/tonpy](https://github.com/disintar/tonpy) - SDK with TLB support and TVM.
+  - [yungwine/pytoniq](https://github.com/yungwine/pytoniq) - SDK with LiteClient and TLB.
+  - [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk) - Cells and contract wrappers.
   - [toncenter/pytonlib](https://github.com/toncenter/pytonlib) - Tonlib wrapper.
-  - [yungwine/TonTools](https://github.com/yungwine/TonTools) - High-level library with HTTP/ADNL interaction with liteservers.
-- JavaScript
-  - [TONX.JS](https://github.com/frigatebird-studio/TONX.js) - This repository contains the JS integration and adapters for TONX API.
-  - [ton-core/ton](https://github.com/ton-core/ton) - Cross-platform client for TON blockchain, by ton-core.
-  - [toncenter/tonweb](https://github.com/toncenter/tonweb) - Cross-platform client for TON blockchain, by TonCenter.
-  - [orbs-network/ton-access](https://github.com/orbs-network/ton-access) - Unthrottled anonymous RPC access to TON blockchain.
-  - [foton](https://github.com/VanishMax/foton) - A toolkit for creating TON dApps: connect to wallets, send transactions, deploy and call smart contracts.
-- Go
-  - [xssnick/tonutils-go](https://github.com/xssnick/tonutils-go)
-  - [tonkeeper/tongo](https://github.com/tonkeeper/tongo)
-  - [Golang TonLib Wrapper](https://github.com/ton-blockchain/tonlib-go)
-- Dart/Flutter SDK
-  - [novusnota/tonutils-dart](https://github.com/novusnota/tonutils-dart) - Comprehensive Dart/Flutter SDK for TON Blockchain.
-- Rust SDK
-  - [ston-fi/tonlib-rs](https://github.com/ston-fi/tonlib-rs)
-- C++ TonLib
-  - [C++ TonLib](https://github.com/ton-blockchain/ton/tree/master/example/cpp)
-- Java TonLib Wrapper (JNI)
-  - [tonlib-java](https://github.com/ton-blockchain/tonlib-java)
-- Swift
-  - [labraburn/SwiftyTON](https://github.com/labraburn/SwiftyTON) - Native Swift wrapper for tonlib with async/await.
-- Node.js
-  - [labraburn/node-tonlib](https://github.com/labraburn/node-tonlib) - C++ addon for Node.js to work with tonlibjson.
-- Kotlin
-  - [ton-kotlin](https://github.com/andreypfau/ton-kotlin) - Kotlin SDK for TON blockchain.
-- C# (.NET, Unity)
-  - [TonSdk.NET](https://github.com/continuation-team/TonSdk.NET) - Native C# (.NET, Unity) SDK for TON Blockchain.
+  - [yungwine/TonTools](https://github.com/yungwine/TonTools) - High-level library for HTTP/ADNL.
+
+- Other Languages
+  - Go
+    - [xssnick/tonutils-go](https://github.com/xssnick/tonutils-go) - Go SDK.
+    - [tonkeeper/tongo](https://github.com/tonkeeper/tongo) - Go SDK.
+    - [ton-blockchain/tonlib-go](https://github.com/ton-blockchain/tonlib-go) - Golang TonLib wrapper.
+  - [tonutils-dart](https://github.com/novusnota/tonutils-dart) - Dart/Flutter SDK.
+  - [tonlib-rs](https://github.com/ston-fi/tonlib-rs) - Rust SDK.
+  - [SwiftyTON](https://github.com/labraburn/SwiftyTON) - Swift SDK with async/await.
+  - [node-tonlib](https://github.com/labraburn/node-tonlib) - Node.js C++ addon.
+  - [ton-kotlin](https://github.com/andreypfau/ton-kotlin) - Kotlin SDK.
+  - [TonSdk.NET](https://github.com/continuation-team/TonSdk.NET) - C# (.NET, Unity) SDK.
 
 ### Get Help
 - [TON Overflow](https://answers.ton.org)
