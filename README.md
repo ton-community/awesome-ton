@@ -244,7 +244,16 @@ Moved to [ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-ma
 ---
 
 ## 👨‍🎨 UX/UI
-- [TON Design System](https://github.com/designervoid/ton-design-system) - Tailwind-based TypeScript package for creating frontend components, providing [TON Brand Assets](https://ton.org/brand-assets) as Atom CSS with custom theme.
+
+- Design Systems
+  - [TON Design System](https://github.com/designervoid/ton-design-system) - Tailwind-based components with TON branding.
+  - [TON Brand Assets](https://ton.org/brand-assets) - Official TON branding resources.
+
+- UI Components
+  - [Mark42](https://github.com/twa-dev/Mark42) - Lightweight UI library for TWA.
+
+- Design Guidelines
+  - [TON Wallet Guidelines](https://docs.ton.org/develop/dapps/ton-connect/protocol/wallet-guidelines) - UI/UX standards for TON wallets.
 
 ---
 
