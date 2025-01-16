@@ -68,9 +68,10 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
       - [TON with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCYG-hR4N5FRTKUkfM8POgh)
 
 - Community Channels
-  - [TON & Company](https://www.youtube.com/@ton-company/featured) - By [@markokhman](https://t.me/markokhman)
-  - [Mark Okhman](https://www.youtube.com/@markokhman)
+  - [TON & Company](https://www.youtube.com/@ton-company/featured)
   - [TON Dev Moscow](https://www.youtube.com/@tondevmoscow/featured)
+  - [TON - The Open Network](https://www.youtube.com/@the_open_network/featured)
+  - [DoraHacks Workshops](https://www.youtube.com/playlist?list=PLpkpEL9gYGez8hCtzMtOabQPX9bgYLZPN)
 
 ### Community Tutorials
 - Smart Contracts
@@ -136,7 +137,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 
 ## 🗣 Talks & Workshops
 
-- [TON & Company](https://www.youtube.com/@ton-company/featured) - By [@markokhman](https://t.me/markokhman)
 - [TON - The Open Network](https://www.youtube.com/@the_open_network/featured)
 - [DoraHacks Workshops](https://www.youtube.com/playlist?list=PLpkpEL9gYGez8hCtzMtOabQPX9bgYLZPN)
 
@@ -207,10 +207,17 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [TonSdk.NET](https://github.com/continuation-team/TonSdk.NET) - C# (.NET, Unity) SDK.
 
 ### Get Help
-- [TON Overflow](https://answers.ton.org)
-- [English Developers Chat](https://t.me/tondev_eng)
-- [Russian Developers Chat](https://t.me/tondev)
-- [Chinese Developers Chat](https://t.me/tondev_zh)
+
+- Community Support
+  - [TON Overflow](https://answers.ton.org) - Q&A platform for developers.
+  - [TON Dev Chat](https://t.me/tondev_eng) - English developer community.
+  - [TON 开发者社区](https://t.me/tondev_zh) - Chinese developer community.
+  - [TON Разработка](https://t.me/tondev) - Russian developer community.
+
+- Documentation
+  - [TON Documentation](https://docs.ton.org/) - Official technical documentation.
+  - [TON Learn](https://docs.ton.org/learn/) - Learning resources and guides.
+  - [TON API References](https://docs.ton.org/reference/) - API documentation.
 
 ---
 
@@ -248,12 +255,6 @@ Moved to [ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-ma
 - Design Systems
   - [TON Design System](https://github.com/designervoid/ton-design-system) - Tailwind-based components with TON branding.
   - [TON Brand Assets](https://ton.org/brand-assets) - Official TON branding resources.
-
-- UI Components
-  - [Mark42](https://github.com/twa-dev/Mark42) - Lightweight UI library for TWA.
-
-- Design Guidelines
-  - [TON Wallet Guidelines](https://docs.ton.org/develop/dapps/ton-connect/protocol/wallet-guidelines) - UI/UX standards for TON wallets.
 
 ---
 
