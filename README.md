@@ -21,7 +21,6 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [Community Tutorials](#community-tutorials)
   - [Smart Contract Examples](#smart-contract-examples)
   - [Guidelines](#guidelines)
-- [🗣 Talks \& Workshops](#-talks--workshops)
 - [🧑‍💻 Get Coding](#-get-coding)
   - [Dev Tools](#dev-tools)
   - [Libraries](#libraries)
@@ -52,20 +51,26 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [TON Sites, TON WWW, TON Proxy](https://blog.ton.org/ton-sites)
 
 ### YouTube Educational Videos
-- [TON Dev Study Channel](https://www.youtube.com/@WikiMar/playlists)
-  - English
-    - [FunC & Blueprint](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDjIMAF3XqNI2XGNwdcB3sg)
-    - [TON Development with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsB47mqzF4Z9K8k6HYqPv6Px)
-    - [TON Development with Python](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDrQUyuHTsKRzxg6XaTPzhh)
-    - [Tact & Blueprint](https://www.youtube.com/@AlefmanVladimirEN-xb4pq/videos)
-  - Russian
-    - [FunC & Blueprint](https://www.youtube.com/playlist?list=PLyDBPwv9EPsA5vcUM2vzjQOomf264IdUZ)
-    - [TON Connect - Integration in TON Ecosystem](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCJ226xS5_dKmXXxWx1CKz_)
-    - [TON Development with Python](https://www.youtube.com/playlist?list=PLyDBPwv9EPsC-7xbn8b8noZh9a1Xkg42W)
-    - [TON Development with GO](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCV-GifFVIQ1o3t35j1nj-u)
-    - [TON Development with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCYG-hR4N5FRTKUkfM8POgh)
-- [Mark Okhman](https://www.youtube.com/@markokhman)
-- [TON Dev Moscow Channel](https://www.youtube.com/@tondevmoscow/featured)
+
+- TON Development Courses
+  - [TON Dev Study](https://www.youtube.com/@WikiMar/playlists)
+    - English
+      - [FunC & Blueprint](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDjIMAF3XqNI2XGNwdcB3sg)
+      - [TON with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsB47mqzF4Z9K8k6HYqPv6Px)
+      - [TON with Python](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDrQUyuHTsKRzxg6XaTPzhh)
+      - [Tact & Blueprint](https://www.youtube.com/@AlefmanVladimirEN-xb4pq/videos)
+    - Russian
+      - [FunC & Blueprint](https://www.youtube.com/playlist?list=PLyDBPwv9EPsA5vcUM2vzjQOomf264IdUZ)
+      - [TON Connect Integration](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCJ226xS5_dKmXXxWx1CKz_)
+      - [TON with Python](https://www.youtube.com/playlist?list=PLyDBPwv9EPsC-7xbn8b8noZh9a1Xkg42W)
+      - [TON with GO](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCV-GifFVIQ1o3t35j1nj-u)
+      - [TON with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCYG-hR4N5FRTKUkfM8POgh)
+
+- Community Channels
+  - [TON & Company](https://www.youtube.com/@ton-company/featured)
+  - [TON Dev Moscow](https://www.youtube.com/@tondevmoscow/featured)
+  - [TON - The Open Network](https://www.youtube.com/@the_open_network/featured)
+  - [DoraHacks Workshops](https://www.youtube.com/playlist?list=PLpkpEL9gYGez8hCtzMtOabQPX9bgYLZPN)
 
 ### Community Tutorials
 - Smart Contracts
@@ -77,6 +82,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
     - [🚩 Challenge 5: Create UI to Interact with the Contract in 5 Minutes](https://github.com/romanovichim/TONQuest5)
     - [🚩 Challenge 6: Analyzing NFT Sales on Getgems Marketplace](https://github.com/romanovichim/TONQuest6)
   - [Get Started with TON](https://docs.ton.org/develop/onboarding-challenge)
+  - [How to Build Your First DApp on TON](https://docs.tonxapi.com/reference/build-your-first-dapp)
   - TON Community Hello World
     - [Step-by-Step Guide for Working with Your First TON Wallet](https://ton-community.github.io/tutorials/01-wallet/)
     - [Step-by-Step Guide for Writing Your First Smart Contract](https://ton-community.github.io/tutorials/02-contract/)
@@ -107,95 +113,102 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [Smart Contract Examples](https://docs.ton.org/develop/smart-contracts/examples)
 
 ### Guidelines
-- Smart Contract Development
-  - [Overview](https://docs.ton.org/develop/smart-contracts/guidelines)
-- Develop Apps
-  - [Payments Processing](https://docs.ton.org/develop/dapps/asset-processing/)
-  - [TON Jetton Processing](https://docs.ton.org/develop/dapps/asset-processing/jettons)
-  - [TON NFT Processing](https://docs.ton.org/develop/dapps/asset-processing/nfts)
-  - [TON Metadata Parsing](https://docs.ton.org/develop/dapps/asset-processing/metadata)
-- TON Connect (Integration)
-  - [TON Connect for Developers](https://docs.ton.org/develop/dapps/ton-connect/developers)
-  - [TON Wallet Guidelines](https://docs.ton.org/develop/dapps/ton-connect/protocol/wallet-guidelines)
-  - [TON Connect Workflow](https://docs.ton.org/develop/dapps/ton-connect/protocol/workflow)
-- API references
-  - [Chainstack TON API refence](https://docs.chainstack.com/reference/getting-started-ton) — interactive API reference for v2 and v3 with working examples.
----
 
-## 🗣 Talks & Workshops
+- Development Guidelines
+  - Smart Contracts
+    - [Development Overview](https://docs.ton.org/develop/smart-contracts/guidelines)
+  
+  - Asset Processing
+    - [Payments Processing](https://docs.ton.org/develop/dapps/asset-processing/)
+    - [Jetton Processing](https://docs.ton.org/develop/dapps/asset-processing/jettons)
+    - [NFT Processing](https://docs.ton.org/develop/dapps/asset-processing/nfts)
+    - [Metadata Parsing](https://docs.ton.org/develop/dapps/asset-processing/metadata)
+  
+  - TON Connect
+    - [Developer Guide](https://docs.ton.org/develop/dapps/ton-connect/developers)
+    - [Wallet Integration](https://docs.ton.org/develop/dapps/ton-connect/protocol/wallet-guidelines)
+    - [Protocol Workflow](https://docs.ton.org/develop/dapps/ton-connect/protocol/workflow)
 
-- [TON & Company](https://www.youtube.com/@ton-company/featured) - By [@markokhman](https://t.me/markokhman)
-- [TON - The Open Network](https://www.youtube.com/@the_open_network/featured)
-- [DoraHacks Workshops](https://www.youtube.com/playlist?list=PLpkpEL9gYGez8hCtzMtOabQPX9bgYLZPN)
+- API Documentation
+  - [Chainstack API Reference](https://docs.chainstack.com/reference/getting-started-ton) - Interactive v2/v3 API docs with examples.
 
 ---
 
 ## 🧑‍💻 Get Coding
 
 ### Dev Tools
-- [Blueprint](https://github.com/ton-community/blueprint/) - A development environment for writing, testing, and deploying smart contracts.
-- [Testnet Faucet](https://t.me/testgiver_ton_bot) - Bot for getting testnet TON.
-- [Chainstack TON faucet](https://faucet.chainstack.com/ton-testnet-faucet) — good for daily TON refills.
-- [TON Dev Wallet](https://github.com/TonDevWallet/TonDevWallet) - Wallet for developers.
-- [Rift](https://github.com/sky-ring/rift) - Python framework for building smart contracts.
-- [Tact](https://tact-lang.org/) - High-level language for TON smart-contracts.
-- [ton-k8s](https://github.com/disintar/ton-k8s) - Self-hosted TON network with Docker images for compose and Kubernetes.
-- IDE Plugins
+
+- Development
+  - [Blueprint](https://github.com/ton-community/blueprint/) - Development environment for smart contracts.
+  - [Rift](https://github.com/sky-ring/rift) - Python framework for smart contracts.
+  - [Tact](https://tact-lang.org/) - High-level language for smart contracts.
+  - [ton-k8s](https://github.com/disintar/ton-k8s) - Self-hosted TON network with Docker.
+
+- Testing
+  - [Testnet Faucet](https://t.me/testgiver_ton_bot) - Bot for testnet TON.
+  - [TONX Testnet Faucet](https://faucet.tonxapi.com/) - Test without real tokens.
+  - [Chainstack TON faucet](https://faucet.chainstack.com/ton-testnet-faucet) - Daily TON refills.
+  - [TON Dev Wallet](https://github.com/TonDevWallet/TonDevWallet) - Developer wallet.
+
+- IDE Support
   - [VS Code Plugin](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode)
   - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/23382-ton)
   - [Sublime Text Plugin](https://github.com/savva425/func_plugin_sublimetext3)
-- API
-  - [Chainstack](https://chainstack.com/build-better-with-ton/) — RPC nodes and indexer in multiple regions with geo and load balancing.
-  - [toncenter.com](https://toncenter.com/) - Fast and reliable HTTP API for The Open Network.
-  - [dton.io/graphql](https://dton.io/graphql)
-  - [tonapi.io](https://tonapi.io/)
-  - [anton.tools](https://anton.tools/)
+
+- API Services
+  - [TONX API](https://www.notion.so/TONX-TONX-API-TONX-Lab-f9e86e5382604c6193a2ef2243b283fc?pvs=21) - Complete API platform with 99.99% uptime.
+  - [Chainstack](https://chainstack.com/build-better-with-ton/) - RPC nodes with geo balancing.
+  - [toncenter.com](https://toncenter.com/) - Fast and reliable HTTP API.
+  - [dton.io/graphql](https://dton.io/graphql) - GraphQL API.
+  - [tonapi.io](https://tonapi.io/) - API service.
+  - [anton.tools](https://anton.tools/) - API tools.
+
 - Telegram Web Apps (TWAs)
-  - [Telegram WebApps Documentation](https://core.telegram.org/bots/webapps) - Full description on Telegram website.
-  - [docs.twa.dev](https://docs.telegram-mini-apps.com/) - User-friendly docs from the community.
-  - [ton-community/twa-template](https://github.com/ton-community/twa-template) - Template for a new TWA interacting with the TON.
-  - [twa-dev/boilerplate](https://github.com/twa-dev/Boilerplate) - Another boilerplate for a new TWA.
-  - [twa-dev/sdk](https://github.com/twa-dev/sdk) - npm package for TWA SDK.
-  - [twa-dev/Mark42](https://github.com/twa-dev/Mark42) - Mark42 is a simple lightweight tree-shakable UI library for TWA.
+  - [Official Documentation](https://core.telegram.org/bots/webapps)
+  - [Community Documentation](https://docs.telegram-mini-apps.com/)
+  - [ton-community/twa-template](https://github.com/ton-community/twa-template) - TWA template with TON.
+  - [twa-dev/boilerplate](https://github.com/twa-dev/Boilerplate) - TWA boilerplate.
+  - [twa-dev/sdk](https://github.com/twa-dev/sdk) - TWA SDK package.
+  - [twa-dev/Mark42](https://github.com/twa-dev/Mark42) - UI library for TWA.
 
 ### Libraries
+- JavaScript/TypeScript
+  - [TONX.JS](https://github.com/frigatebird-studio/TONX.js) - JS integration for TONX API.
+  - [ton-core/ton](https://github.com/ton-core/ton) - Cross-platform client by ton-core.
+  - [toncenter/tonweb](https://github.com/toncenter/tonweb) - Cross-platform client by TonCenter.
+  - [orbs-network/ton-access](https://github.com/orbs-network/ton-access) - Unthrottled RPC access.
+  - [foton](https://github.com/VanishMax/foton) - Toolkit for TON dApps development.
+
 - Python
-  - [disintar/tonpy](https://github.com/disintar/tonpy) - Python SDK with full TLB support, Emulator, and TVM.
-  - [yungwine/pytoniq](https://github.com/yungwine/pytoniq) - Python SDK with native LiteClient, TLB wrappers, and cells.
-  - [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk) - Library with cells implementation and popular contract wrappers.
+  - [disintar/tonpy](https://github.com/disintar/tonpy) - SDK with TLB support and TVM.
+  - [yungwine/pytoniq](https://github.com/yungwine/pytoniq) - SDK with LiteClient and TLB.
+  - [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk) - Cells and contract wrappers.
   - [toncenter/pytonlib](https://github.com/toncenter/pytonlib) - Tonlib wrapper.
-  - [yungwine/TonTools](https://github.com/yungwine/TonTools) - High-level library with HTTP/ADNL interaction with liteservers.
-- JavaScript
-  - [ton-core/ton](https://github.com/ton-core/ton) - Cross-platform client for TON blockchain, by ton-core.
-  - [toncenter/tonweb](https://github.com/toncenter/tonweb) - Cross-platform client for TON blockchain, by TonCenter.
-  - [orbs-network/ton-access](https://github.com/orbs-network/ton-access) - Unthrottled anonymous RPC access to TON blockchain.
-  - [foton](https://github.com/VanishMax/foton) - A toolkit for creating TON dApps: connect to wallets, send transactions, deploy and call smart contracts.
-- Go
-  - [xssnick/tonutils-go](https://github.com/xssnick/tonutils-go)
-  - [tonkeeper/tongo](https://github.com/tonkeeper/tongo)
-  - [Golang TonLib Wrapper](https://github.com/ton-blockchain/tonlib-go)
-- Dart/Flutter SDK
-  - [novusnota/tonutils-dart](https://github.com/novusnota/tonutils-dart) - Comprehensive Dart/Flutter SDK for TON Blockchain.
-- Rust SDK
-  - [ston-fi/tonlib-rs](https://github.com/ston-fi/tonlib-rs)
-- C++ TonLib
-  - [C++ TonLib](https://github.com/ton-blockchain/ton/tree/master/example/cpp)
-- Java TonLib Wrapper (JNI)
-  - [tonlib-java](https://github.com/ton-blockchain/tonlib-java)
-- Swift
-  - [labraburn/SwiftyTON](https://github.com/labraburn/SwiftyTON) - Native Swift wrapper for tonlib with async/await.
-- Node.js
-  - [labraburn/node-tonlib](https://github.com/labraburn/node-tonlib) - C++ addon for Node.js to work with tonlibjson.
-- Kotlin
-  - [ton-kotlin](https://github.com/andreypfau/ton-kotlin) - Kotlin SDK for TON blockchain.
-- C# (.NET, Unity)
-  - [TonSdk.NET](https://github.com/continuation-team/TonSdk.NET) - Native C# (.NET, Unity) SDK for TON Blockchain.
+  - [yungwine/TonTools](https://github.com/yungwine/TonTools) - High-level library for HTTP/ADNL.
+
+- Other Languages
+  - Go
+    - [xssnick/tonutils-go](https://github.com/xssnick/tonutils-go) - Go SDK.
+    - [tonkeeper/tongo](https://github.com/tonkeeper/tongo) - Go SDK.
+    - [ton-blockchain/tonlib-go](https://github.com/ton-blockchain/tonlib-go) - Golang TonLib wrapper.
+  - [tonutils-dart](https://github.com/novusnota/tonutils-dart) - Dart/Flutter SDK.
+  - [tonlib-rs](https://github.com/ston-fi/tonlib-rs) - Rust SDK.
+  - [SwiftyTON](https://github.com/labraburn/SwiftyTON) - Swift SDK with async/await.
+  - [node-tonlib](https://github.com/labraburn/node-tonlib) - Node.js C++ addon.
+  - [ton-kotlin](https://github.com/andreypfau/ton-kotlin) - Kotlin SDK.
+  - [TonSdk.NET](https://github.com/continuation-team/TonSdk.NET) - C# (.NET, Unity) SDK.
 
 ### Get Help
-- [TON Overflow](https://answers.ton.org)
-- [English Developers Chat](https://t.me/tondev_eng)
-- [Russian Developers Chat](https://t.me/tondev)
-- [Chinese Developers Chat](https://t.me/tondev_zh)
+
+- Community Support
+  - [TON Overflow](https://answers.ton.org) - Q&A platform for developers.
+  - [TON Dev Chat](https://t.me/tondev_eng) - English developer community.
+  - [TON 开发者社区](https://t.me/tondev_zh) - Chinese developer community.
+  - [TON Разработка](https://t.me/tondev) - Russian developer community.
+
+- Documentation
+  - [TON Learn](https://docs.ton.org/learn/) - Learning resources and guides.
+  - [TON API References](https://docs.ton.org/reference/) - API documentation.
 
 ---
 
@@ -216,22 +229,24 @@ Moved to [ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-ma
 
 ## 🎛 Utilities
 
-This section includes a variety of handy utilities that assist with different tasks within the TON ecosystem, from user-friendly address generation to instant notification services. These tools are meant to enhance your experience while interacting with The Open Network.
-
 - [TonStat.com](https://www.tonstat.com/) - Key Metrics of TON Ecosystem.
-- [Tonutils Proxy](https://github.com/xssnick/Tonutils-Proxy) - User-friendly implementation of the TON Proxy, simplifying tasks of managing and interacting with the TON network.
-- [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator designed for The Open Network's standard wallets, allowing users to create unique, personalized addresses.
-- [custon](https://github.com/TON-NFT/custon) - User-friendly generator of custom TON wallet addresses written in JavaScript.
-- [TON Grafana](https://tonmon.xyz/) - Tool that provides blockchain metrics for TON, offering visualizations and analytics for tracking and managing blockchain data.
-- [TON Notify Bot](https://t.me/TONNotifyBot) - Telegram bot providing instant notifications about coin transfers of TON addresses, keeping you informed about your transactions in real-time.
-- [Blockchain Network Visualizer](https://github.com/qpwedev/blockchain-network-visualizer) - Draft tool for visualizing TON blockchain network, written in Python, offering visual representation of contracts and transfers.
-- [Anonymous Numbers Market Analytics](https://github.com/qpwedev/anonymous-numbers-market-analytics) - Telegram bot disseminating statistical data on Anonymous Telegram Numbers from Fragment market.
-- [TON Multisender](https://ton.multisender.app/) - TON Multisender App is a tool for multisend of Jettons and TON to multiple addresses simultaneously, specially designed for the TON network
+- [Tonutils Proxy](https://github.com/xssnick/Tonutils-Proxy) - User-friendly TON Proxy implementation.
+- [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator for TON standard wallets.
+- [custon](https://github.com/TON-NFT/custon) - Custom TON wallet address generator in JavaScript.
+- [TON Grafana](https://tonmon.xyz/) - Blockchain metrics visualization tool.
+- [TON Notify Bot](https://t.me/TONNotifyBot) - Telegram bot for TON address transaction notifications.
+- [Blockchain Network Visualizer](https://github.com/qpwedev/blockchain-network-visualizer) - Tool for visualizing TON blockchain network.
+- [Anonymous Numbers Market Analytics](https://github.com/qpwedev/anonymous-numbers-market-analytics) - Fragment market Anonymous Numbers statistics bot.
+- [TON Multisender](https://ton.multisender.app/) - Tool for batch sending Jettons and TON to multiple addresses.
+- [TON Bulksender](https://ton.bulksender.app) - TON Bulksender App is a tool that lets you efficiently bulk send TON or Jettons to thousands of recipients in seconds, helping users save time by automatically generating transactions on a TON web3 wallet.
 
 ---
 
 ## 👨‍🎨 UX/UI
-- [TON Design System](https://github.com/designervoid/ton-design-system) - Tailwind-based TypeScript package for creating frontend components, providing [TON Brand Assets](https://ton.org/brand-assets) as Atom CSS with custom theme.
+
+- Design Systems
+  - [TON Design System](https://github.com/designervoid/ton-design-system) - Tailwind-based components with TON branding.
+  - [TON Brand Assets](https://ton.org/brand-assets) - Official TON branding resources.
 
 ---
 
