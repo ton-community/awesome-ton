@@ -113,19 +113,24 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [Smart Contract Examples](https://docs.ton.org/develop/smart-contracts/examples)
 
 ### Guidelines
-- Smart Contract Development
-  - [Overview](https://docs.ton.org/develop/smart-contracts/guidelines)
-- Develop Apps
-  - [Payments Processing](https://docs.ton.org/develop/dapps/asset-processing/)
-  - [TON Jetton Processing](https://docs.ton.org/develop/dapps/asset-processing/jettons)
-  - [TON NFT Processing](https://docs.ton.org/develop/dapps/asset-processing/nfts)
-  - [TON Metadata Parsing](https://docs.ton.org/develop/dapps/asset-processing/metadata)
-- TON Connect (Integration)
-  - [TON Connect for Developers](https://docs.ton.org/develop/dapps/ton-connect/developers)
-  - [TON Wallet Guidelines](https://docs.ton.org/develop/dapps/ton-connect/protocol/wallet-guidelines)
-  - [TON Connect Workflow](https://docs.ton.org/develop/dapps/ton-connect/protocol/workflow)
-- API references
-  - [Chainstack TON API refence](https://docs.chainstack.com/reference/getting-started-ton) — interactive API reference for v2 and v3 with working examples.
+
+- Development Guidelines
+  - Smart Contracts
+    - [Development Overview](https://docs.ton.org/develop/smart-contracts/guidelines)
+  
+  - Asset Processing
+    - [Payments Processing](https://docs.ton.org/develop/dapps/asset-processing/)
+    - [Jetton Processing](https://docs.ton.org/develop/dapps/asset-processing/jettons)
+    - [NFT Processing](https://docs.ton.org/develop/dapps/asset-processing/nfts)
+    - [Metadata Parsing](https://docs.ton.org/develop/dapps/asset-processing/metadata)
+  
+  - TON Connect
+    - [Developer Guide](https://docs.ton.org/develop/dapps/ton-connect/developers)
+    - [Wallet Integration](https://docs.ton.org/develop/dapps/ton-connect/protocol/wallet-guidelines)
+    - [Protocol Workflow](https://docs.ton.org/develop/dapps/ton-connect/protocol/workflow)
+
+- API Documentation
+  - [Chainstack API Reference](https://docs.chainstack.com/reference/getting-started-ton) - Interactive v2/v3 API docs with examples.
 
 ---
 
