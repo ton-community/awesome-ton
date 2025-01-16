@@ -52,20 +52,25 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - [TON Sites, TON WWW, TON Proxy](https://blog.ton.org/ton-sites)
 
 ### YouTube Educational Videos
-- [TON Dev Study Channel](https://www.youtube.com/@WikiMar/playlists)
-  - English
-    - [FunC & Blueprint](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDjIMAF3XqNI2XGNwdcB3sg)
-    - [TON Development with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsB47mqzF4Z9K8k6HYqPv6Px)
-    - [TON Development with Python](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDrQUyuHTsKRzxg6XaTPzhh)
-    - [Tact & Blueprint](https://www.youtube.com/@AlefmanVladimirEN-xb4pq/videos)
-  - Russian
-    - [FunC & Blueprint](https://www.youtube.com/playlist?list=PLyDBPwv9EPsA5vcUM2vzjQOomf264IdUZ)
-    - [TON Connect - Integration in TON Ecosystem](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCJ226xS5_dKmXXxWx1CKz_)
-    - [TON Development with Python](https://www.youtube.com/playlist?list=PLyDBPwv9EPsC-7xbn8b8noZh9a1Xkg42W)
-    - [TON Development with GO](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCV-GifFVIQ1o3t35j1nj-u)
-    - [TON Development with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCYG-hR4N5FRTKUkfM8POgh)
-- [Mark Okhman](https://www.youtube.com/@markokhman)
-- [TON Dev Moscow Channel](https://www.youtube.com/@tondevmoscow/featured)
+
+- TON Development Courses
+  - [TON Dev Study](https://www.youtube.com/@WikiMar/playlists)
+    - English
+      - [FunC & Blueprint](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDjIMAF3XqNI2XGNwdcB3sg)
+      - [TON with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsB47mqzF4Z9K8k6HYqPv6Px)
+      - [TON with Python](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDrQUyuHTsKRzxg6XaTPzhh)
+      - [Tact & Blueprint](https://www.youtube.com/@AlefmanVladimirEN-xb4pq/videos)
+    - Russian
+      - [FunC & Blueprint](https://www.youtube.com/playlist?list=PLyDBPwv9EPsA5vcUM2vzjQOomf264IdUZ)
+      - [TON Connect Integration](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCJ226xS5_dKmXXxWx1CKz_)
+      - [TON with Python](https://www.youtube.com/playlist?list=PLyDBPwv9EPsC-7xbn8b8noZh9a1Xkg42W)
+      - [TON with GO](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCV-GifFVIQ1o3t35j1nj-u)
+      - [TON with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsCYG-hR4N5FRTKUkfM8POgh)
+
+- Community Channels
+  - [TON & Company](https://www.youtube.com/@ton-company/featured) - By [@markokhman](https://t.me/markokhman)
+  - [Mark Okhman](https://www.youtube.com/@markokhman)
+  - [TON Dev Moscow](https://www.youtube.com/@tondevmoscow/featured)
 
 ### Community Tutorials
 - Smart Contracts
@@ -135,32 +140,39 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 ## 🧑‍💻 Get Coding
 
 ### Dev Tools
-- [Blueprint](https://github.com/ton-community/blueprint/) - A development environment for writing, testing, and deploying smart contracts.
-- [Testnet Faucet](https://t.me/testgiver_ton_bot) - Bot for getting testnet TON.
-- [TONX Testnet Faucet](https://faucet.tonxapi.com/) - Test the TON blockchain without real tokens.
-- [Chainstack TON faucet](https://faucet.chainstack.com/ton-testnet-faucet) — good for daily TON refills.
-- [TON Dev Wallet](https://github.com/TonDevWallet/TonDevWallet) - Wallet for developers.
-- [Rift](https://github.com/sky-ring/rift) - Python framework for building smart contracts.
-- [Tact](https://tact-lang.org/) - High-level language for TON smart-contracts.
-- [ton-k8s](https://github.com/disintar/ton-k8s) - Self-hosted TON network with Docker images for compose and Kubernetes.
-- IDE Plugins
+
+- Development
+  - [Blueprint](https://github.com/ton-community/blueprint/) - Development environment for smart contracts.
+  - [Rift](https://github.com/sky-ring/rift) - Python framework for smart contracts.
+  - [Tact](https://tact-lang.org/) - High-level language for smart contracts.
+  - [ton-k8s](https://github.com/disintar/ton-k8s) - Self-hosted TON network with Docker.
+
+- Testing
+  - [Testnet Faucet](https://t.me/testgiver_ton_bot) - Bot for testnet TON.
+  - [TONX Testnet Faucet](https://faucet.tonxapi.com/) - Test without real tokens.
+  - [Chainstack TON faucet](https://faucet.chainstack.com/ton-testnet-faucet) - Daily TON refills.
+  - [TON Dev Wallet](https://github.com/TonDevWallet/TonDevWallet) - Developer wallet.
+
+- IDE Support
   - [VS Code Plugin](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode)
   - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/23382-ton)
   - [Sublime Text Plugin](https://github.com/savva425/func_plugin_sublimetext3)
-- API
-  - [TONX API](https://www.notion.so/TONX-TONX-API-TONX-Lab-f9e86e5382604c6193a2ef2243b283fc?pvs=21) - The ultimate TON API Platform. Build your dApp in seconds with 99.99% uptime—cheaper, faster, and scalable.
-  - [Chainstack](https://chainstack.com/build-better-with-ton/) — RPC nodes and indexer in multiple regions with geo and load balancing.
-  - [toncenter.com](https://toncenter.com/) - Fast and reliable HTTP API for The Open Network.
-  - [dton.io/graphql](https://dton.io/graphql)
-  - [tonapi.io](https://tonapi.io/)
-  - [anton.tools](https://anton.tools/)
+
+- API Services
+  - [TONX API](https://www.notion.so/TONX-TONX-API-TONX-Lab-f9e86e5382604c6193a2ef2243b283fc?pvs=21) - Complete API platform with 99.99% uptime.
+  - [Chainstack](https://chainstack.com/build-better-with-ton/) - RPC nodes with geo balancing.
+  - [toncenter.com](https://toncenter.com/) - Fast and reliable HTTP API.
+  - [dton.io/graphql](https://dton.io/graphql) - GraphQL API.
+  - [tonapi.io](https://tonapi.io/) - API service.
+  - [anton.tools](https://anton.tools/) - API tools.
+
 - Telegram Web Apps (TWAs)
-  - [Telegram WebApps Documentation](https://core.telegram.org/bots/webapps) - Full description on Telegram website.
-  - [docs.twa.dev](https://docs.telegram-mini-apps.com/) - User-friendly docs from the community.
-  - [ton-community/twa-template](https://github.com/ton-community/twa-template) - Template for a new TWA interacting with the TON.
-  - [twa-dev/boilerplate](https://github.com/twa-dev/Boilerplate) - Another boilerplate for a new TWA.
-  - [twa-dev/sdk](https://github.com/twa-dev/sdk) - npm package for TWA SDK.
-  - [twa-dev/Mark42](https://github.com/twa-dev/Mark42) - Mark42 is a simple lightweight tree-shakable UI library for TWA.
+  - [Official Documentation](https://core.telegram.org/bots/webapps)
+  - [Community Documentation](https://docs.telegram-mini-apps.com/)
+  - [ton-community/twa-template](https://github.com/ton-community/twa-template) - TWA template with TON.
+  - [twa-dev/boilerplate](https://github.com/twa-dev/Boilerplate) - TWA boilerplate.
+  - [twa-dev/sdk](https://github.com/twa-dev/sdk) - TWA SDK package.
+  - [twa-dev/Mark42](https://github.com/twa-dev/Mark42) - UI library for TWA.
 
 ### Libraries
 - JavaScript/TypeScript
