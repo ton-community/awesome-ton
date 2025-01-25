@@ -182,6 +182,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
 - Python
   - [disintar/tonpy](https://github.com/disintar/tonpy) - SDK with TLB support and TVM.
   - [yungwine/pytoniq](https://github.com/yungwine/pytoniq) - SDK with LiteClient and TLB.
+  - [nessshon/tonutils](https://github.com/nessshon/tonutils) - High-level SDK and toolkit.
   - [tonfactory/tonsdk](https://github.com/tonfactory/tonsdk) - Cells and contract wrappers.
   - [toncenter/pytonlib](https://github.com/toncenter/pytonlib) - Tonlib wrapper.
   - [yungwine/TonTools](https://github.com/yungwine/TonTools) - High-level library for HTTP/ADNL.
@@ -222,6 +223,7 @@ Moved to [ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-ma
 - [Ton Connect](https://github.com/ton-connect/) - Standard protocol for communication between wallets and apps.
 - [delab-team/connect](https://github.com/delab-team/connect) - SDK that combines multiple protocols in one modal.
 - [@tonconnect/sdk](https://www.npmjs.com/package/@tonconnect/sdk) - JS SDK for TON Connect 2.0.
+- [tonutils/tonconnect](https://github.com/nessshon/tonutils?tab=readme-ov-file#ton-connect-integration) - Enhanced Python SDK for TON Connect 2.0.
 - [pytonconnect](https://pypi.org/project/pytonconnect/) - Python SDK for TON Connect 2.0.
 - [darttonconnect](https://github.com/romanovichim/dartTonconnect) - Dart SDK for TON Connect 2.0.
 
