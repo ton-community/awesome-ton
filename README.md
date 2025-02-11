@@ -97,6 +97,7 @@ Welcome to Awesome TON - a carefully curated compendium of standout libraries, t
   - [How to Make a Simple Multisig Contract](https://docs.ton.org/develop/smart-contracts/tutorials/multisig)
   - [Unlocking the Power of TON with Rift Framework](https://blog.ton.org/rift-announcement)
   - [Interact with Multisig Wallets Using TypeScript](https://docs.ton.org/develop/smart-contracts/tutorials/multisig-js)
+  - [TON Smart Contract Development with Tolk](https://github.com/dankorotin/ton-tutorials)
 - FT (Jettons) & NFT
   - [Step-by-Step NFT Collection Minting](https://docs.ton.org/develop/dapps/tutorials/collection-minting)
   - [Mint Your First Jetton](https://docs.ton.org/develop/dapps/tutorials/jetton-minter)
