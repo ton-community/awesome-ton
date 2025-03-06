@@ -233,6 +233,7 @@ Moved to [ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-ma
 ## 🎛 Utilities
 
 - [TonStat.com](https://www.tonstat.com/) - Key Metrics of TON Ecosystem.
+- [Chainstack Compare](https://compare.chainstack.com/dashboard) — A node RPC performance comparison dashboard across time for TON nodes from key providers.
 - [Tonutils Proxy](https://github.com/xssnick/Tonutils-Proxy) - User-friendly TON Proxy implementation.
 - [vaniton](https://github.com/AntonMeep/vaniton) - Vanity address generator for TON standard wallets.
 - [custon](https://github.com/TON-NFT/custon) - Custom TON wallet address generator in JavaScript.
