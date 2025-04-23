@@ -55,7 +55,7 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
 ### YouTube Educational Videos
 
 - TON Development Courses
-  - [TON Dev Study](https://www.youtube.com/@WikiMar/playlists) - Educational playlists covering:
+  - [TON Dev Study](https://www.youtube.com/@WikiMar/playlists) - Educational playlists covering various TON development topics.
     - English
       - [FunC & Blueprint](https://www.youtube.com/playlist?list=PLyDBPwv9EPsDjIMAF3XqNI2XGNwdcB3sg)
       - [TON with Fift](https://www.youtube.com/playlist?list=PLyDBPwv9EPsB47mqzF4Z9K8k6HYqPv6Px)
@@ -76,7 +76,7 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
 
 ### Community Tutorials
 - Smart Contracts
-  - [TON Speedrun](https://tonspeedrun.com/) - Interactive learning challenges:
+  - [TON Speedrun](https://tonspeedrun.com/) - Interactive learning challenges.
     - [🚩 Challenge 1: Simple NFT Deploy](https://github.com/romanovichim/TONQuest1)
     - [🚩 Challenge 2: Chatbot Contract](https://github.com/romanovichim/TONQuest2)
     - [🚩 Challenge 3: Jetton Vending Machine](https://github.com/romanovichim/TONQuest3)
@@ -273,7 +273,3 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
 3. Make your changes following our contribution guidelines
 4. Submit a Pull Request with a clear description of your additions/changes
 5. Join the TON contributors community!
-
----
-
-*Awesome TON is maintained by the TON community. Last updated: [Current Date]*
