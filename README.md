@@ -94,7 +94,6 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
   - FunC Tutorial Series by @romanovichim:
     - [English](https://github.com/romanovichim/TonFunClessons_Eng)
     - [Russian](https://github.com/romanovichim/TonFunClessons_ru)
-  - [Learn FunC in 10 Minutes](https://learnxinyminutes.com/docs/func/) - Quick reference guide.
   - [Wallet Smart Contracts Guide](https://docs.ton.org/develop/smart-contracts/tutorials/wallet) - Implementation tutorial.
   - [Multisig Contract Guide](https://docs.ton.org/develop/smart-contracts/tutorials/multisig) - Creating multisignature wallets.
   - [Rift Framework Tutorial](https://blog.ton.org/rift-announcement) - Python framework for TON.
