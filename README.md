@@ -158,7 +158,7 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
 
 - IDE Support
   - FunC
-    - [VS Code Plugin](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) - Syntax highlighting and tools.
+    - [VS Code Plugin](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) - FunC syntax highlighting and tools.
     - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/23382-ton) - TON development for JetBrains IDEs.
     - [Sublime Text Plugin](https://github.com/savva425/func_plugin_sublimetext3) - FunC support for Sublime.
   - Tact
