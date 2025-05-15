@@ -161,6 +161,9 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
   - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/23382-ton) - TON development for JetBrains IDEs.
   - [Sublime Text Plugin](https://github.com/savva425/func_plugin_sublimetext3) - FunC support for Sublime.
 
+- Debugging
+  - [TxTracer](https://txtracer.ton.org) - Tool to emulate and trace any transaction from TON blockchain.
+
 ### Libraries & SDKs
 
 - JavaScript/TypeScript
