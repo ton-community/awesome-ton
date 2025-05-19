@@ -157,12 +157,12 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
   - [TON Dev Wallet](https://github.com/TonDevWallet/TonDevWallet) - Developer-focused wallet.
 
 - IDE Support
+  - [TON Web IDE](https://ide.ton.org/) - Browser-based IDE designed to simplify the journey of writing, testing, compiling, deploying, and interacting with smart contracts on TON.
   - FunC
     - [VS Code Plugin](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) - FunC syntax highlighting and tools.
     - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/23382-ton) - TON development for JetBrains IDEs.
     - [Sublime Text Plugin](https://github.com/savva425/func_plugin_sublimetext3) - FunC support for Sublime.
   - Tact
-    - [TON Web IDE](https://ide.ton.org/) - Browser-based IDE designed to simplify the journey of writing, testing, compiling, deploying, and interacting with smart contracts on TON.
     - [VS Code Plugin](https://marketplace.visualstudio.com/items?itemName=tonstudio.vscode-tact) - Powerful and feature-rich extension for Visual Studio Code (VSCode) and VSCode-based editors like VSCodium, Cursor, Windsurf, and others.
     - [IntelliJ IDEs Plugin](https://plugins.jetbrains.com/plugin/27290-tact) - Powerful and feature-rich plugin for JetBrains IDEs like WebStorm, IntelliJ IDEA, and others.
     - [Sublime Text Plugin](https://github.com/tact-lang/tact-sublime) - Sublime Text 4 package.
